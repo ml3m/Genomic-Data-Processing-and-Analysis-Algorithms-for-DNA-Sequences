@@ -1,4 +1,3 @@
-#include <ctime>
 #include <iostream>
 #include <memory>
 #include <string>
@@ -163,7 +162,7 @@ public:
             size_t blockLength = std::min(static_cast<int>(LINE_LENGTH), static_cast<int>(seq1.length() - i));
             
             // Print ruler for this block
-            std::cout << "     " << createRuler(blockLength);
+            std::cout << "       " << createRuler(blockLength);
             
             // Print sequences for this block
             printSequenceBlock(seq1, seq2, i, blockLength);
@@ -303,7 +302,10 @@ public:
 
 int main(int argc, char* argv[]) {
     if (argc != 3) {
+        //./needleman data/1.fna data/2.fna 
         std::cerr << "Usage: " << argv[0] << " <sequence1.fna> <sequence2.fna>" << std::endl;
+        std::cerr << "ex: " << argv[0] << " data/1.fna data/2.fna" << std::endl;
+
         return 1;
     }
 
