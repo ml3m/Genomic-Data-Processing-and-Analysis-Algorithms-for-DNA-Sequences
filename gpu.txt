@@ -1,0 +1,2127 @@
+Sequence 0 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 1 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 2 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 3 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 4 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 5 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 6 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 7 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 8 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 9 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 10 (J01415.2):
+GC count: 296
+Percentage: 28.9062%
+Sequence 11 (J01415.2):
+GC count: 493
+Percentage: 48.1445%
+Sequence 12 (J01415.2):
+GC count: 599
+Percentage: 58.4961%
+Sequence 13 (J01415.2):
+GC count: 550
+Percentage: 53.7109%
+Sequence 14 (J01415.2):
+GC count: 551
+Percentage: 53.8086%
+Sequence 15 (J01415.2):
+GC count: 550
+Percentage: 53.7109%
+Sequence 16 (J01415.2):
+GC count: 510
+Percentage: 49.8047%
+Sequence 17 (J01415.2):
+GC count: 643
+Percentage: 62.793%
+Sequence 18 (J01415.2):
+GC count: 571
+Percentage: 55.7617%
+Sequence 19 (J01415.2):
+GC count: 509
+Percentage: 49.707%
+Sequence 20 (J01415.2):
+GC count: 491
+Percentage: 47.9492%
+Sequence 21 (J01415.2):
+GC count: 544
+Percentage: 53.125%
+Sequence 22 (J01415.2):
+GC count: 494
+Percentage: 48.2422%
+Sequence 23 (J01415.2):
+GC count: 437
+Percentage: 42.6758%
+Sequence 24 (J01415.2):
+GC count: 570
+Percentage: 55.6641%
+Sequence 25 (J01415.2):
+GC count: 435
+Percentage: 42.4805%
+Sequence 26 (J01415.2):
+GC count: 213
+Percentage: 20.8008%
+Sequence 27 (J01415.2):
+GC count: 315
+Percentage: 30.7617%
+Sequence 28 (J01415.2):
+GC count: 709
+Percentage: 69.2383%
+Sequence 29 (J01415.2):
+GC count: 387
+Percentage: 37.793%
+Sequence 30 (J01415.2):
+GC count: 181
+Percentage: 17.6758%
+Sequence 31 (J01415.2):
+GC count: 454
+Percentage: 44.3359%
+Sequence 32 (J01415.2):
+GC count: 231
+Percentage: 22.5586%
+Sequence 33 (J01415.2):
+GC count: 341
+Percentage: 33.3008%
+Sequence 34 (J01415.2):
+GC count: 415
+Percentage: 40.5273%
+Sequence 35 (J01415.2):
+GC count: 514
+Percentage: 50.1953%
+Sequence 36 (J01415.2):
+GC count: 375
+Percentage: 36.6211%
+Sequence 37 (J01415.2):
+GC count: 486
+Percentage: 47.4609%
+Sequence 38 (J01415.2):
+GC count: 317
+Percentage: 30.957%
+Sequence 39 (J01415.2):
+GC count: 427
+Percentage: 41.6992%
+Sequence 40 (J01415.2):
+GC count: 377
+Percentage: 36.8164%
+Sequence 41 (J01415.2):
+GC count: 280
+Percentage: 27.3438%
+Sequence 42 (J01415.2):
+GC count: 139
+Percentage: 13.5742%
+Sequence 43 (J01415.2):
+GC count: 124
+Percentage: 12.1094%
+Sequence 44 (J01415.2):
+GC count: 94
+Percentage: 9.17969%
+Sequence 45 (J01415.2):
+GC count: 289
+Percentage: 28.2227%
+Sequence 46 (J01415.2):
+GC count: 320
+Percentage: 31.25%
+Sequence 47 (J01415.2):
+GC count: 130
+Percentage: 12.6953%
+Sequence 48 (J01415.2):
+GC count: 205
+Percentage: 20.0195%
+Sequence 49 (J01415.2):
+GC count: 252
+Percentage: 24.6094%
+Sequence 50 (J01415.2):
+GC count: 242
+Percentage: 23.6328%
+Sequence 51 (J01415.2):
+GC count: 344
+Percentage: 33.5938%
+Sequence 52 (J01415.2):
+GC count: 300
+Percentage: 29.2969%
+Sequence 53 (J01415.2):
+GC count: 306
+Percentage: 29.8828%
+Sequence 54 (J01415.2):
+GC count: 376
+Percentage: 36.7188%
+Sequence 55 (J01415.2):
+GC count: 327
+Percentage: 31.9336%
+Sequence 56 (J01415.2):
+GC count: 323
+Percentage: 31.543%
+Sequence 57 (J01415.2):
+GC count: 301
+Percentage: 29.3945%
+Sequence 58 (J01415.2):
+GC count: 303
+Percentage: 29.5898%
+Sequence 59 (J01415.2):
+GC count: 260
+Percentage: 25.3906%
+Sequence 60 (J01415.2):
+GC count: 149
+Percentage: 14.5508%
+Sequence 61 (J01415.2):
+GC count: 306
+Percentage: 29.8828%
+Sequence 62 (J01415.2):
+GC count: 246
+Percentage: 24.0234%
+Sequence 63 (J01415.2):
+GC count: 262
+Percentage: 25.5859%
+Sequence 64 (J01415.2):
+GC count: 172
+Percentage: 16.7969%
+Sequence 65 (J01415.2):
+GC count: 281
+Percentage: 27.4414%
+Sequence 66 (J01415.2):
+GC count: 293
+Percentage: 28.6133%
+Sequence 67 (J01415.2):
+GC count: 349
+Percentage: 34.082%
+Sequence 68 (J01415.2):
+GC count: 328
+Percentage: 32.0312%
+Sequence 69 (J01415.2):
+GC count: 255
+Percentage: 24.9023%
+Sequence 70 (J01415.2):
+GC count: 97
+Percentage: 9.47266%
+Sequence 71 (J01415.2):
+GC count: 107
+Percentage: 10.4492%
+Sequence 72 (J01415.2):
+GC count: 27
+Percentage: 2.63672%
+Sequence 73 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 74 (J01415.2):
+GC count: 30
+Percentage: 2.92969%
+Sequence 75 (J01415.2):
+GC count: 140
+Percentage: 13.6719%
+Sequence 76 (J01415.2):
+GC count: 155
+Percentage: 15.1367%
+Sequence 77 (J01415.2):
+GC count: 540
+Percentage: 52.7344%
+Sequence 78 (J01415.2):
+GC count: 50
+Percentage: 4.88281%
+Sequence 79 (J01415.2):
+GC count: 200
+Percentage: 19.5312%
+Sequence 80 (J01415.2):
+GC count: 229
+Percentage: 22.3633%
+Sequence 81 (J01415.2):
+GC count: 217
+Percentage: 21.1914%
+Sequence 82 (J01415.2):
+GC count: 141
+Percentage: 13.7695%
+Sequence 83 (J01415.2):
+GC count: 145
+Percentage: 14.1602%
+Sequence 84 (J01415.2):
+GC count: 247
+Percentage: 24.1211%
+Sequence 85 (J01415.2):
+GC count: 279
+Percentage: 27.2461%
+Sequence 86 (J01415.2):
+GC count: 541
+Percentage: 52.832%
+Sequence 87 (J01415.2):
+GC count: 332
+Percentage: 32.4219%
+Sequence 88 (J01415.2):
+GC count: 261
+Percentage: 25.4883%
+Sequence 89 (J01415.2):
+GC count: 328
+Percentage: 32.0312%
+Sequence 90 (J01415.2):
+GC count: 322
+Percentage: 31.4453%
+Sequence 91 (J01415.2):
+GC count: 197
+Percentage: 19.2383%
+Sequence 92 (J01415.2):
+GC count: 328
+Percentage: 32.0312%
+Sequence 93 (J01415.2):
+GC count: 402
+Percentage: 39.2578%
+Sequence 94 (J01415.2):
+GC count: 385
+Percentage: 37.5977%
+Sequence 95 (J01415.2):
+GC count: 343
+Percentage: 33.4961%
+Sequence 96 (J01415.2):
+GC count: 223
+Percentage: 21.7773%
+Sequence 97 (J01415.2):
+GC count: 365
+Percentage: 35.6445%
+Sequence 98 (J01415.2):
+GC count: 180
+Percentage: 17.5781%
+Sequence 99 (J01415.2):
+GC count: 90
+Percentage: 8.78906%
+Sequence 100 (J01415.2):
+GC count: 239
+Percentage: 23.3398%
+Sequence 101 (J01415.2):
+GC count: 179
+Percentage: 17.4805%
+Sequence 102 (J01415.2):
+GC count: 409
+Percentage: 39.9414%
+Sequence 103 (J01415.2):
+GC count: 324
+Percentage: 31.6406%
+Sequence 104 (J01415.2):
+GC count: 326
+Percentage: 31.8359%
+Sequence 105 (J01415.2):
+GC count: 261
+Percentage: 25.4883%
+Sequence 106 (J01415.2):
+GC count: 330
+Percentage: 32.2266%
+Sequence 107 (J01415.2):
+GC count: 53
+Percentage: 5.17578%
+Sequence 108 (J01415.2):
+GC count: 77
+Percentage: 7.51953%
+Sequence 109 (J01415.2):
+GC count: 291
+Percentage: 28.418%
+Sequence 110 (J01415.2):
+GC count: 325
+Percentage: 31.7383%
+Sequence 111 (J01415.2):
+GC count: 297
+Percentage: 29.0039%
+Sequence 112 (J01415.2):
+GC count: 328
+Percentage: 32.0312%
+Sequence 113 (J01415.2):
+GC count: 349
+Percentage: 34.082%
+Sequence 114 (J01415.2):
+GC count: 286
+Percentage: 27.9297%
+Sequence 115 (J01415.2):
+GC count: 243
+Percentage: 23.7305%
+Sequence 116 (J01415.2):
+GC count: 108
+Percentage: 10.5469%
+Sequence 117 (J01415.2):
+GC count: 251
+Percentage: 24.5117%
+Sequence 118 (J01415.2):
+GC count: 101
+Percentage: 9.86328%
+Sequence 119 (J01415.2):
+GC count: 292
+Percentage: 28.5156%
+Sequence 120 (J01415.2):
+GC count: 192
+Percentage: 18.75%
+Sequence 121 (J01415.2):
+GC count: 205
+Percentage: 20.0195%
+Sequence 122 (J01415.2):
+GC count: 180
+Percentage: 17.5781%
+Sequence 123 (J01415.2):
+GC count: 120
+Percentage: 11.7188%
+Sequence 124 (J01415.2):
+GC count: 174
+Percentage: 16.9922%
+Sequence 125 (J01415.2):
+GC count: 153
+Percentage: 14.9414%
+Sequence 126 (J01415.2):
+GC count: 128
+Percentage: 12.5%
+Sequence 127 (J01415.2):
+GC count: 146
+Percentage: 14.2578%
+Sequence 128 (J01415.2):
+GC count: 617
+Percentage: 60.2539%
+Sequence 129 (J01415.2):
+GC count: 577
+Percentage: 56.3477%
+Sequence 130 (J01415.2):
+GC count: 471
+Percentage: 45.9961%
+Sequence 131 (J01415.2):
+GC count: 342
+Percentage: 33.3984%
+Sequence 132 (J01415.2):
+GC count: 498
+Percentage: 48.6328%
+Sequence 133 (J01415.2):
+GC count: 22
+Percentage: 2.14844%
+Sequence 134 (J01415.2):
+GC count: 463
+Percentage: 45.2148%
+Sequence 135 (J01415.2):
+GC count: 411
+Percentage: 40.1367%
+Sequence 136 (J01415.2):
+GC count: 294
+Percentage: 28.7109%
+Sequence 137 (J01415.2):
+GC count: 246
+Percentage: 24.0234%
+Sequence 138 (J01415.2):
+GC count: 183
+Percentage: 17.8711%
+Sequence 139 (J01415.2):
+GC count: 296
+Percentage: 28.9062%
+Sequence 140 (J01415.2):
+GC count: 218
+Percentage: 21.2891%
+Sequence 141 (J01415.2):
+GC count: 64
+Percentage: 6.25%
+Sequence 142 (J01415.2):
+GC count: 339
+Percentage: 33.1055%
+Sequence 143 (J01415.2):
+GC count: 126
+Percentage: 12.3047%
+Sequence 144 (J01415.2):
+GC count: 41
+Percentage: 4.00391%
+Sequence 145 (J01415.2):
+GC count: 167
+Percentage: 16.3086%
+Sequence 146 (J01415.2):
+GC count: 144
+Percentage: 14.0625%
+Sequence 147 (J01415.2):
+GC count: 350
+Percentage: 34.1797%
+Sequence 148 (J01415.2):
+GC count: 105
+Percentage: 10.2539%
+Sequence 149 (J01415.2):
+GC count: 223
+Percentage: 21.7773%
+Sequence 150 (J01415.2):
+GC count: 116
+Percentage: 11.3281%
+Sequence 151 (J01415.2):
+GC count: 228
+Percentage: 22.2656%
+Sequence 152 (J01415.2):
+GC count: 161
+Percentage: 15.7227%
+Sequence 153 (J01415.2):
+GC count: 96
+Percentage: 9.375%
+Sequence 154 (J01415.2):
+GC count: 272
+Percentage: 26.5625%
+Sequence 155 (J01415.2):
+GC count: 194
+Percentage: 18.9453%
+Sequence 156 (J01415.2):
+GC count: 399
+Percentage: 38.9648%
+Sequence 157 (J01415.2):
+GC count: 396
+Percentage: 38.6719%
+Sequence 158 (J01415.2):
+GC count: 251
+Percentage: 24.5117%
+Sequence 159 (J01415.2):
+GC count: 410
+Percentage: 40.0391%
+Sequence 160 (J01415.2):
+GC count: 107
+Percentage: 10.4492%
+Sequence 161 (J01415.2):
+GC count: 205
+Percentage: 20.0195%
+Sequence 162 (J01415.2):
+GC count: 189
+Percentage: 18.457%
+Sequence 163 (J01415.2):
+GC count: 99
+Percentage: 9.66797%
+Sequence 164 (J01415.2):
+GC count: 296
+Percentage: 28.9062%
+Sequence 165 (J01415.2):
+GC count: 247
+Percentage: 24.1211%
+Sequence 166 (J01415.2):
+GC count: 351
+Percentage: 34.2773%
+Sequence 167 (J01415.2):
+GC count: 430
+Percentage: 41.9922%
+Sequence 168 (J01415.2):
+GC count: 533
+Percentage: 52.0508%
+Sequence 169 (J01415.2):
+GC count: 306
+Percentage: 29.8828%
+Sequence 170 (J01415.2):
+GC count: 133
+Percentage: 12.9883%
+Sequence 171 (J01415.2):
+GC count: 50
+Percentage: 4.88281%
+Sequence 172 (J01415.2):
+GC count: 324
+Percentage: 31.6406%
+Sequence 173 (J01415.2):
+GC count: 325
+Percentage: 31.7383%
+Sequence 174 (J01415.2):
+GC count: 317
+Percentage: 30.957%
+Sequence 175 (J01415.2):
+GC count: 350
+Percentage: 34.1797%
+Sequence 176 (J01415.2):
+GC count: 229
+Percentage: 22.3633%
+Sequence 177 (J01415.2):
+GC count: 466
+Percentage: 45.5078%
+Sequence 178 (J01415.2):
+GC count: 580
+Percentage: 56.6406%
+Sequence 179 (J01415.2):
+GC count: 568
+Percentage: 55.4688%
+Sequence 180 (J01415.2):
+GC count: 545
+Percentage: 53.2227%
+Sequence 181 (J01415.2):
+GC count: 529
+Percentage: 51.6602%
+Sequence 182 (J01415.2):
+GC count: 520
+Percentage: 50.7812%
+Sequence 183 (J01415.2):
+GC count: 594
+Percentage: 58.0078%
+Sequence 184 (J01415.2):
+GC count: 612
+Percentage: 59.7656%
+Sequence 185 (J01415.2):
+GC count: 535
+Percentage: 52.2461%
+Sequence 186 (J01415.2):
+GC count: 496
+Percentage: 48.4375%
+Sequence 187 (J01415.2):
+GC count: 538
+Percentage: 52.5391%
+Sequence 188 (J01415.2):
+GC count: 523
+Percentage: 51.0742%
+Sequence 189 (J01415.2):
+GC count: 480
+Percentage: 46.875%
+Sequence 190 (J01415.2):
+GC count: 507
+Percentage: 49.5117%
+Sequence 191 (J01415.2):
+GC count: 471
+Percentage: 45.9961%
+Sequence 192 (J01415.2):
+GC count: 300
+Percentage: 29.2969%
+Sequence 193 (J01415.2):
+GC count: 267
+Percentage: 26.0742%
+Sequence 194 (J01415.2):
+GC count: 504
+Percentage: 49.2188%
+Sequence 195 (J01415.2):
+GC count: 583
+Percentage: 56.9336%
+Sequence 196 (J01415.2):
+GC count: 247
+Percentage: 24.1211%
+Sequence 197 (J01415.2):
+GC count: 321
+Percentage: 31.3477%
+Sequence 198 (J01415.2):
+GC count: 406
+Percentage: 39.6484%
+Sequence 199 (J01415.2):
+GC count: 142
+Percentage: 13.8672%
+Sequence 200 (J01415.2):
+GC count: 494
+Percentage: 48.2422%
+Sequence 201 (J01415.2):
+GC count: 448
+Percentage: 43.75%
+Sequence 202 (J01415.2):
+GC count: 317
+Percentage: 38.7531%
+Sequence 203 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 204 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 205 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 206 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 207 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 208 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 209 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 210 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 211 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 212 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 213 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 214 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 215 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 216 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 217 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 218 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 219 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 220 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 221 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 222 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 223 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 224 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 225 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 226 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 227 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 228 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 229 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 230 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 231 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 232 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 233 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 234 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 235 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 236 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 237 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 238 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 239 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 240 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 241 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 242 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 243 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 244 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 245 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 246 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 247 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 248 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 249 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 250 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 251 (J01415.2):
+GC count: 7
+Percentage: 1.83246%
+Sequence 252 (J01415.2):
+GC count: 325
+Percentage: 31.7383%
+Sequence 253 (J01415.2):
+GC count: 147
+Percentage: 14.3555%
+Sequence 254 (J01415.2):
+GC count: 271
+Percentage: 26.4648%
+Sequence 255 (J01415.2):
+GC count: 317
+Percentage: 30.957%
+Sequence 256 (J01415.2):
+GC count: 282
+Percentage: 27.5391%
+Sequence 257 (J01415.2):
+GC count: 212
+Percentage: 20.7031%
+Sequence 258 (J01415.2):
+GC count: 397
+Percentage: 38.7695%
+Sequence 259 (J01415.2):
+GC count: 395
+Percentage: 38.5742%
+Sequence 260 (J01415.2):
+GC count: 359
+Percentage: 35.0586%
+Sequence 261 (J01415.2):
+GC count: 329
+Percentage: 32.1289%
+Sequence 262 (J01415.2):
+GC count: 303
+Percentage: 29.5898%
+Sequence 263 (J01415.2):
+GC count: 284
+Percentage: 27.7344%
+Sequence 264 (J01415.2):
+GC count: 320
+Percentage: 31.25%
+Sequence 265 (J01415.2):
+GC count: 262
+Percentage: 25.5859%
+Sequence 266 (J01415.2):
+GC count: 445
+Percentage: 43.457%
+Sequence 267 (J01415.2):
+GC count: 293
+Percentage: 28.6133%
+Sequence 268 (J01415.2):
+GC count: 382
+Percentage: 37.3047%
+Sequence 269 (J01415.2):
+GC count: 229
+Percentage: 22.3633%
+Sequence 270 (J01415.2):
+GC count: 315
+Percentage: 30.7617%
+Sequence 271 (J01415.2):
+GC count: 27
+Percentage: 2.63672%
+Sequence 272 (J01415.2):
+GC count: 253
+Percentage: 24.707%
+Sequence 273 (J01415.2):
+GC count: 133
+Percentage: 12.9883%
+Sequence 274 (J01415.2):
+GC count: 345
+Percentage: 33.6914%
+Sequence 275 (J01415.2):
+GC count: 340
+Percentage: 33.2031%
+Sequence 276 (J01415.2):
+GC count: 346
+Percentage: 33.7891%
+Sequence 277 (J01415.2):
+GC count: 337
+Percentage: 32.9102%
+Sequence 278 (J01415.2):
+GC count: 284
+Percentage: 27.7344%
+Sequence 279 (J01415.2):
+GC count: 137
+Percentage: 13.3789%
+Sequence 280 (J01415.2):
+GC count: 58
+Percentage: 5.66406%
+Sequence 281 (J01415.2):
+GC count: 188
+Percentage: 18.3594%
+Sequence 282 (J01415.2):
+GC count: 318
+Percentage: 31.0547%
+Sequence 283 (J01415.2):
+GC count: 330
+Percentage: 32.2266%
+Sequence 284 (J01415.2):
+GC count: 301
+Percentage: 29.3945%
+Sequence 285 (J01415.2):
+GC count: 334
+Percentage: 32.6172%
+Sequence 286 (J01415.2):
+GC count: 322
+Percentage: 31.4453%
+Sequence 287 (J01415.2):
+GC count: 279
+Percentage: 27.2461%
+Sequence 288 (J01415.2):
+GC count: 150
+Percentage: 14.6484%
+Sequence 289 (J01415.2):
+GC count: 172
+Percentage: 16.7969%
+Sequence 290 (J01415.2):
+GC count: 201
+Percentage: 19.9405%
+Sequence 291 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 292 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 293 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 294 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 295 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 296 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 297 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 298 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 299 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 300 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 301 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 302 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 303 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 304 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 305 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 306 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 307 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 308 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 309 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 310 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 311 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 312 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 313 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 314 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 315 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 316 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 317 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 318 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 319 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 320 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 321 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 322 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 323 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 324 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 325 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 326 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 327 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 328 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 329 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 330 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 331 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 332 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 333 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 334 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 335 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 336 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 337 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 338 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 339 (J01415.2):
+GC count: 73
+Percentage: 38.0208%
+Sequence 340 (J01415.2):
+GC count: 294
+Percentage: 28.7109%
+Sequence 341 (J01415.2):
+GC count: 167
+Percentage: 16.3086%
+Sequence 342 (J01415.2):
+GC count: 330
+Percentage: 32.2266%
+Sequence 343 (J01415.2):
+GC count: 271
+Percentage: 26.4648%
+Sequence 344 (J01415.2):
+GC count: 245
+Percentage: 23.9258%
+Sequence 345 (J01415.2):
+GC count: 342
+Percentage: 33.3984%
+Sequence 346 (J01415.2):
+GC count: 407
+Percentage: 39.7461%
+Sequence 347 (J01415.2):
+GC count: 338
+Percentage: 33.0078%
+Sequence 348 (J01415.2):
+GC count: 332
+Percentage: 32.4219%
+Sequence 349 (J01415.2):
+GC count: 297
+Percentage: 29.0039%
+Sequence 350 (J01415.2):
+GC count: 391
+Percentage: 38.1836%
+Sequence 351 (J01415.2):
+GC count: 423
+Percentage: 41.3086%
+Sequence 352 (J01415.2):
+GC count: 140
+Percentage: 13.6719%
+Sequence 353 (J01415.2):
+GC count: 82
+Percentage: 8.00781%
+Sequence 354 (J01415.2):
+GC count: 305
+Percentage: 29.7852%
+Sequence 355 (J01415.2):
+GC count: 461
+Percentage: 45.0195%
+Sequence 356 (J01415.2):
+GC count: 475
+Percentage: 46.3867%
+Sequence 357 (J01415.2):
+GC count: 437
+Percentage: 42.6758%
+Sequence 358 (J01415.2):
+GC count: 402
+Percentage: 39.2578%
+Sequence 359 (J01415.2):
+GC count: 144
+Percentage: 14.0625%
+Sequence 360 (J01415.2):
+GC count: 59
+Percentage: 5.76172%
+Sequence 361 (J01415.2):
+GC count: 270
+Percentage: 26.3672%
+Sequence 362 (J01415.2):
+GC count: 130
+Percentage: 12.6953%
+Sequence 363 (J01415.2):
+GC count: 243
+Percentage: 23.7305%
+Sequence 364 (J01415.2):
+GC count: 453
+Percentage: 44.2383%
+Sequence 365 (J01415.2):
+GC count: 370
+Percentage: 36.1328%
+Sequence 366 (J01415.2):
+GC count: 438
+Percentage: 42.7734%
+Sequence 367 (J01415.2):
+GC count: 261
+Percentage: 25.4883%
+Sequence 368 (J01415.2):
+GC count: 507
+Percentage: 49.5117%
+Sequence 369 (J01415.2):
+GC count: 553
+Percentage: 54.0039%
+Sequence 370 (J01415.2):
+GC count: 405
+Percentage: 39.5508%
+Sequence 371 (J01415.2):
+GC count: 545
+Percentage: 53.2227%
+Sequence 372 (J01415.2):
+GC count: 504
+Percentage: 49.2188%
+Sequence 373 (J01415.2):
+GC count: 305
+Percentage: 29.7852%
+Sequence 374 (J01415.2):
+GC count: 219
+Percentage: 21.3867%
+Sequence 375 (J01415.2):
+GC count: 341
+Percentage: 33.3008%
+Sequence 376 (J01415.2):
+GC count: 445
+Percentage: 43.457%
+Sequence 377 (J01415.2):
+GC count: 348
+Percentage: 33.9844%
+Sequence 378 (J01415.2):
+GC count: 490
+Percentage: 47.8516%
+Sequence 379 (J01415.2):
+GC count: 42
+Percentage: 4.10156%
+Sequence 380 (J01415.2):
+GC count: 441
+Percentage: 43.0664%
+Sequence 381 (J01415.2):
+GC count: 392
+Percentage: 38.2812%
+Sequence 382 (J01415.2):
+GC count: 391
+Percentage: 38.1836%
+Sequence 383 (J01415.2):
+GC count: 437
+Percentage: 42.6758%
+Sequence 384 (J01415.2):
+GC count: 437
+Percentage: 42.6758%
+Sequence 385 (J01415.2):
+GC count: 326
+Percentage: 31.8359%
+Sequence 386 (J01415.2):
+GC count: 248
+Percentage: 24.2188%
+Sequence 387 (J01415.2):
+GC count: 213
+Percentage: 20.8008%
+Sequence 388 (J01415.2):
+GC count: 431
+Percentage: 42.0898%
+Sequence 389 (J01415.2):
+GC count: 318
+Percentage: 31.0547%
+Sequence 390 (J01415.2):
+GC count: 230
+Percentage: 22.4609%
+Sequence 391 (J01415.2):
+GC count: 308
+Percentage: 30.0781%
+Sequence 392 (J01415.2):
+GC count: 280
+Percentage: 27.3438%
+Sequence 393 (J01415.2):
+GC count: 398
+Percentage: 38.8672%
+Sequence 394 (J01415.2):
+GC count: 197
+Percentage: 19.2383%
+Sequence 395 (J01415.2):
+GC count: 314
+Percentage: 30.6641%
+Sequence 396 (J01415.2):
+GC count: 398
+Percentage: 38.8672%
+Sequence 397 (J01415.2):
+GC count: 392
+Percentage: 38.2812%
+Sequence 398 (J01415.2):
+GC count: 329
+Percentage: 32.1289%
+Sequence 399 (J01415.2):
+GC count: 298
+Percentage: 29.1016%
+Sequence 400 (J01415.2):
+GC count: 300
+Percentage: 29.2969%
+Sequence 401 (J01415.2):
+GC count: 234
+Percentage: 22.8516%
+Sequence 402 (J01415.2):
+GC count: 25
+Percentage: 2.44141%
+Sequence 403 (J01415.2):
+GC count: 258
+Percentage: 25.1953%
+Sequence 404 (J01415.2):
+GC count: 147
+Percentage: 14.3555%
+Sequence 405 (J01415.2):
+GC count: 364
+Percentage: 35.5469%
+Sequence 406 (J01415.2):
+GC count: 231
+Percentage: 22.5586%
+Sequence 407 (J01415.2):
+GC count: 241
+Percentage: 23.5352%
+Sequence 408 (J01415.2):
+GC count: 134
+Percentage: 13.0859%
+Sequence 409 (J01415.2):
+GC count: 139
+Percentage: 13.5742%
+Sequence 410 (J01415.2):
+GC count: 214
+Percentage: 20.8984%
+Sequence 411 (J01415.2):
+GC count: 347
+Percentage: 33.8867%
+Sequence 412 (J01415.2):
+GC count: 193
+Percentage: 18.8477%
+Sequence 413 (J01415.2):
+GC count: 224
+Percentage: 21.875%
+Sequence 414 (J01415.2):
+GC count: 228
+Percentage: 22.2656%
+Sequence 415 (J01415.2):
+GC count: 154
+Percentage: 15.0391%
+Sequence 416 (J01415.2):
+GC count: 116
+Percentage: 11.3281%
+Sequence 417 (J01415.2):
+GC count: 50
+Percentage: 4.88281%
+Sequence 418 (J01415.2):
+GC count: 102
+Percentage: 9.96094%
+Sequence 419 (J01415.2):
+GC count: 137
+Percentage: 13.3789%
+Sequence 420 (J01415.2):
+GC count: 400
+Percentage: 39.0625%
+Sequence 421 (J01415.2):
+GC count: 199
+Percentage: 19.4336%
+Sequence 422 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 423 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 424 (J01415.2):
+GC count: 17
+Percentage: 1.66016%
+Sequence 425 (J01415.2):
+GC count: 197
+Percentage: 19.2383%
+Sequence 426 (J01415.2):
+GC count: 157
+Percentage: 15.332%
+Sequence 427 (J01415.2):
+GC count: 53
+Percentage: 5.17578%
+Sequence 428 (J01415.2):
+GC count: 89
+Percentage: 8.69141%
+Sequence 429 (J01415.2):
+GC count: 291
+Percentage: 28.418%
+Sequence 430 (J01415.2):
+GC count: 301
+Percentage: 29.3945%
+Sequence 431 (J01415.2):
+GC count: 92
+Percentage: 8.98438%
+Sequence 432 (J01415.2):
+GC count: 36
+Percentage: 3.51562%
+Sequence 433 (J01415.2):
+GC count: 24
+Percentage: 2.34375%
+Sequence 434 (J01415.2):
+GC count: 5
+Percentage: 0.488281%
+Sequence 435 (J01415.2):
+GC count: 11
+Percentage: 1.07422%
+Sequence 436 (J01415.2):
+GC count: 54
+Percentage: 5.27344%
+Sequence 437 (J01415.2):
+GC count: 249
+Percentage: 24.3164%
+Sequence 438 (J01415.2):
+GC count: 104
+Percentage: 10.1562%
+Sequence 439 (J01415.2):
+GC count: 213
+Percentage: 20.8008%
+Sequence 440 (J01415.2):
+GC count: 423
+Percentage: 41.3086%
+Sequence 441 (J01415.2):
+GC count: 334
+Percentage: 32.6172%
+Sequence 442 (J01415.2):
+GC count: 353
+Percentage: 34.4727%
+Sequence 443 (J01415.2):
+GC count: 255
+Percentage: 24.9023%
+Sequence 444 (J01415.2):
+GC count: 324
+Percentage: 31.6406%
+Sequence 445 (J01415.2):
+GC count: 245
+Percentage: 23.9258%
+Sequence 446 (J01415.2):
+GC count: 319
+Percentage: 31.1523%
+Sequence 447 (J01415.2):
+GC count: 323
+Percentage: 31.543%
+Sequence 448 (J01415.2):
+GC count: 357
+Percentage: 34.8633%
+Sequence 449 (J01415.2):
+GC count: 271
+Percentage: 26.4648%
+Sequence 450 (J01415.2):
+GC count: 178
+Percentage: 17.3828%
+Sequence 451 (J01415.2):
+GC count: 303
+Percentage: 29.5898%
+Sequence 452 (J01415.2):
+GC count: 264
+Percentage: 25.7812%
+Sequence 453 (J01415.2):
+GC count: 37
+Percentage: 3.61328%
+Sequence 454 (J01415.2):
+GC count: 118
+Percentage: 11.5234%
+Sequence 455 (J01415.2):
+GC count: 221
+Percentage: 21.582%
+Sequence 456 (J01415.2):
+GC count: 135
+Percentage: 13.1836%
+Sequence 457 (J01415.2):
+GC count: 320
+Percentage: 31.25%
+Sequence 458 (J01415.2):
+GC count: 325
+Percentage: 31.7383%
+Sequence 459 (J01415.2):
+GC count: 343
+Percentage: 33.4961%
+Sequence 460 (J01415.2):
+GC count: 295
+Percentage: 28.8086%
+Sequence 461 (J01415.2):
+GC count: 340
+Percentage: 33.2031%
+Sequence 462 (J01415.2):
+GC count: 283
+Percentage: 27.6367%
+Sequence 463 (J01415.2):
+GC count: 168
+Percentage: 16.4062%
+Sequence 464 (J01415.2):
+GC count: 126
+Percentage: 12.3047%
+Sequence 465 (J01415.2):
+GC count: 228
+Percentage: 22.2656%
+Sequence 466 (J01415.2):
+GC count: 190
+Percentage: 18.5547%
+Sequence 467 (J01415.2):
+GC count: 219
+Percentage: 21.3867%
+Sequence 468 (J01415.2):
+GC count: 266
+Percentage: 25.9766%
+Sequence 469 (J01415.2):
+GC count: 197
+Percentage: 19.2383%
+Sequence 470 (J01415.2):
+GC count: 111
+Percentage: 10.8398%
+Sequence 471 (J01415.2):
+GC count: 162
+Percentage: 15.8203%
+Sequence 472 (J01415.2):
+GC count: 159
+Percentage: 15.5273%
+Sequence 473 (J01415.2):
+GC count: 200
+Percentage: 19.5312%
+Sequence 474 (J01415.2):
+GC count: 43
+Percentage: 4.19922%
+Sequence 475 (J01415.2):
+GC count: 350
+Percentage: 34.1797%
+Sequence 476 (J01415.2):
+GC count: 612
+Percentage: 59.7656%
+Sequence 477 (J01415.2):
+GC count: 553
+Percentage: 54.0039%
+Sequence 478 (J01415.2):
+GC count: 351
+Percentage: 34.2773%
+Sequence 479 (J01415.2):
+GC count: 436
+Percentage: 42.5781%
+Sequence 480 (J01415.2):
+GC count: 363
+Percentage: 35.4492%
+Sequence 481 (J01415.2):
+GC count: 472
+Percentage: 46.0938%
+Sequence 482 (J01415.2):
+GC count: 432
+Percentage: 42.1875%
+Sequence 483 (J01415.2):
+GC count: 326
+Percentage: 31.8359%
+Sequence 484 (J01415.2):
+GC count: 194
+Percentage: 18.9453%
+Sequence 485 (J01415.2):
+GC count: 179
+Percentage: 17.4805%
+Sequence 486 (J01415.2):
+GC count: 213
+Percentage: 20.8008%
+Sequence 487 (J01415.2):
+GC count: 246
+Percentage: 24.0234%
+Sequence 488 (J01415.2):
+GC count: 180
+Percentage: 17.5781%
+Sequence 489 (J01415.2):
+GC count: 373
+Percentage: 36.4258%
+Sequence 490 (J01415.2):
+GC count: 201
+Percentage: 19.6289%
+Sequence 491 (J01415.2):
+GC count: 55
+Percentage: 5.37109%
+Sequence 492 (J01415.2):
+GC count: 354
+Percentage: 34.5703%
+Sequence 493 (J01415.2):
+GC count: 137
+Percentage: 13.3789%
+Sequence 494 (J01415.2):
+GC count: 29
+Percentage: 2.83203%
+Sequence 495 (J01415.2):
+GC count: 146
+Percentage: 14.2578%
+Sequence 496 (J01415.2):
+GC count: 159
+Percentage: 15.5273%
+Sequence 497 (J01415.2):
+GC count: 334
+Percentage: 32.6172%
+Sequence 498 (J01415.2):
+GC count: 104
+Percentage: 10.1562%
+Sequence 499 (J01415.2):
+GC count: 219
+Percentage: 21.3867%
+Sequence 500 (J01415.2):
+GC count: 118
+Percentage: 11.5234%
+Sequence 501 (J01415.2):
+GC count: 164
+Percentage: 16.0156%
+Sequence 502 (J01415.2):
+GC count: 178
+Percentage: 17.3828%
+Sequence 503 (J01415.2):
+GC count: 113
+Percentage: 11.0352%
+Sequence 504 (J01415.2):
+GC count: 224
+Percentage: 21.875%
+Sequence 505 (J01415.2):
+GC count: 227
+Percentage: 22.168%
+Sequence 506 (J01415.2):
+GC count: 369
+Percentage: 36.0352%
+Sequence 507 (J01415.2):
+GC count: 407
+Percentage: 39.7461%
+Sequence 508 (J01415.2):
+GC count: 264
+Percentage: 25.7812%
+Sequence 509 (J01415.2):
+GC count: 413
+Percentage: 40.332%
+Sequence 510 (J01415.2):
+GC count: 121
+Percentage: 11.8164%
+Sequence 511 (J01415.2):
+GC count: 191
+Percentage: 18.6523%
+Sequence 512 (J01415.2):
+GC count: 202
+Percentage: 19.7266%
+Sequence 513 (J01415.2):
+GC count: 119
+Percentage: 11.6211%
+Sequence 514 (J01415.2):
+GC count: 237
+Percentage: 23.1445%
+Sequence 515 (J01415.2):
+GC count: 292
+Percentage: 28.5156%
+Sequence 516 (J01415.2):
+GC count: 321
+Percentage: 31.3477%
+Sequence 517 (J01415.2):
+GC count: 369
+Percentage: 36.0352%
+Sequence 518 (J01415.2):
+GC count: 532
+Percentage: 51.9531%
+Sequence 519 (J01415.2):
+GC count: 363
+Percentage: 35.4492%
+Sequence 520 (J01415.2):
+GC count: 141
+Percentage: 13.7695%
+Sequence 521 (J01415.2):
+GC count: 96
+Percentage: 9.375%
+Sequence 522 (J01415.2):
+GC count: 250
+Percentage: 24.4141%
+Sequence 523 (J01415.2):
+GC count: 119
+Percentage: 27.2936%
+Sequence 524 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 525 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 526 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 527 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 528 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 529 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 530 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 531 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 532 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 533 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 534 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 535 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 536 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 537 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 538 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 539 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 540 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 541 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 542 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 543 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 544 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 545 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 546 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 547 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 548 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 549 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 550 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 551 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 552 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 553 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 554 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 555 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 556 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 557 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 558 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 559 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 560 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 561 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 562 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 563 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 564 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 565 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 566 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 567 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 568 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 569 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 570 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 571 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 572 (J01415.2):
+GC count: 293
+Percentage: 38.3508%
+Sequence 573 (J01415.2):
+GC count: 269
+Percentage: 26.2695%
+Sequence 574 (J01415.2):
+GC count: 462
+Percentage: 45.1172%
+Sequence 575 (J01415.2):
+GC count: 221
+Percentage: 21.582%
+Sequence 576 (J01415.2):
+GC count: 84
+Percentage: 8.20312%
+Sequence 577 (J01415.2):
+GC count: 125
+Percentage: 12.207%
+Sequence 578 (J01415.2):
+GC count: 407
+Percentage: 39.7461%
+Sequence 579 (J01415.2):
+GC count: 501
+Percentage: 48.9258%
+Sequence 580 (J01415.2):
+GC count: 413
+Percentage: 40.332%
+Sequence 581 (J01415.2):
+GC count: 468
+Percentage: 45.7031%
+Sequence 582 (J01415.2):
+GC count: 336
+Percentage: 32.8125%
+Sequence 583 (J01415.2):
+GC count: 98
+Percentage: 9.57031%
+Sequence 584 (J01415.2):
+GC count: 169
+Percentage: 16.5039%
+Sequence 585 (J01415.2):
+GC count: 166
+Percentage: 16.2109%
+Sequence 586 (J01415.2):
+GC count: 235
+Percentage: 22.9492%
+Sequence 587 (J01415.2):
+GC count: 493
+Percentage: 48.1445%
+Sequence 588 (J01415.2):
+GC count: 374
+Percentage: 36.5234%
+Sequence 589 (J01415.2):
+GC count: 419
+Percentage: 40.918%
+Sequence 590 (J01415.2):
+GC count: 281
+Percentage: 27.4414%
+Sequence 591 (J01415.2):
+GC count: 510
+Percentage: 49.8047%
+Sequence 592 (J01415.2):
+GC count: 542
+Percentage: 52.9297%
+Sequence 593 (J01415.2):
+GC count: 413
+Percentage: 40.332%
+Sequence 594 (J01415.2):
+GC count: 556
+Percentage: 54.2969%
+Sequence 595 (J01415.2):
+GC count: 353
+Percentage: 34.4727%
+Sequence 596 (J01415.2):
+GC count: 562
+Percentage: 54.8828%
+Sequence 597 (J01415.2):
+GC count: 19
+Percentage: 1.85547%
+Sequence 598 (J01415.2):
+GC count: 152
+Percentage: 14.8438%
+Sequence 599 (J01415.2):
+GC count: 362
+Percentage: 35.3516%
+Sequence 600 (J01415.2):
+GC count: 320
+Percentage: 31.25%
+Sequence 601 (J01415.2):
+GC count: 428
+Percentage: 41.7969%
+Sequence 602 (J01415.2):
+GC count: 428
+Percentage: 41.7969%
+Sequence 603 (J01415.2):
+GC count: 262
+Percentage: 25.5859%
+Sequence 604 (J01415.2):
+GC count: 259
+Percentage: 25.293%
+Sequence 605 (J01415.2):
+GC count: 412
+Percentage: 40.2344%
+Sequence 606 (J01415.2):
+GC count: 342
+Percentage: 33.3984%
+Sequence 607 (J01415.2):
+GC count: 462
+Percentage: 45.1172%
+Sequence 608 (J01415.2):
+GC count: 455
+Percentage: 44.4336%
+Sequence 609 (J01415.2):
+GC count: 343
+Percentage: 33.4961%
+Sequence 610 (J01415.2):
+GC count: 346
+Percentage: 33.7891%
+Sequence 611 (J01415.2):
+GC count: 262
+Percentage: 25.5859%
+Sequence 612 (J01415.2):
+GC count: 282
+Percentage: 27.5391%
+Sequence 613 (J01415.2):
+GC count: 351
+Percentage: 34.2773%
+Sequence 614 (J01415.2):
+GC count: 428
+Percentage: 41.7969%
+Sequence 615 (J01415.2):
+GC count: 431
+Percentage: 42.0898%
+Sequence 616 (J01415.2):
+GC count: 482
+Percentage: 47.0703%
+Sequence 617 (J01415.2):
+GC count: 406
+Percentage: 39.6484%
+Sequence 618 (J01415.2):
+GC count: 421
+Percentage: 41.1133%
+Sequence 619 (J01415.2):
+GC count: 467
+Percentage: 45.6055%
+Sequence 620 (J01415.2):
+GC count: 289
+Percentage: 28.2227%
+Sequence 621 (J01415.2):
+GC count: 206
+Percentage: 20.1172%
+Sequence 622 (J01415.2):
+GC count: 324
+Percentage: 31.6406%
+Sequence 623 (J01415.2):
+GC count: 382
+Percentage: 37.3047%
+Sequence 624 (J01415.2):
+GC count: 238
+Percentage: 23.2422%
+Sequence 625 (J01415.2):
+GC count: 336
+Percentage: 32.8125%
+Sequence 626 (J01415.2):
+GC count: 306
+Percentage: 29.8828%
+Sequence 627 (J01415.2):
+GC count: 429
+Percentage: 41.8945%
+Sequence 628 (J01415.2):
+GC count: 303
+Percentage: 29.5898%
+Sequence 629 (J01415.2):
+GC count: 370
+Percentage: 36.1328%
+Sequence 630 (J01415.2):
+GC count: 250
+Percentage: 24.4141%
+Sequence 631 (J01415.2):
+GC count: 319
+Percentage: 31.1523%
+Sequence 632 (J01415.2):
+GC count: 25
+Percentage: 2.44141%
+Sequence 633 (J01415.2):
+GC count: 267
+Percentage: 26.0742%
+Sequence 634 (J01415.2):
+GC count: 134
+Percentage: 13.0859%
+Sequence 635 (J01415.2):
+GC count: 335
+Percentage: 32.7148%
+Sequence 636 (J01415.2):
+GC count: 211
+Percentage: 20.6055%
+Sequence 637 (J01415.2):
+GC count: 230
+Percentage: 22.4609%
+Sequence 638 (J01415.2):
+GC count: 182
+Percentage: 17.7734%
+Sequence 639 (J01415.2):
+GC count: 134
+Percentage: 13.0859%
+Sequence 640 (J01415.2):
+GC count: 180
+Percentage: 17.5781%
+Sequence 641 (J01415.2):
+GC count: 314
+Percentage: 30.6641%
+Sequence 642 (J01415.2):
+GC count: 260
+Percentage: 25.3906%
+Sequence 643 (J01415.2):
+GC count: 209
+Percentage: 20.4102%
+Sequence 644 (J01415.2):
+GC count: 248
+Percentage: 24.2188%
+Sequence 645 (J01415.2):
+GC count: 169
+Percentage: 16.5039%
+Sequence 646 (J01415.2):
+GC count: 136
+Percentage: 13.2812%
+Sequence 647 (J01415.2):
+GC count: 37
+Percentage: 3.61328%
+Sequence 648 (J01415.2):
+GC count: 122
+Percentage: 11.9141%
+Sequence 649 (J01415.2):
+GC count: 81
+Percentage: 7.91016%
+Sequence 650 (J01415.2):
+GC count: 365
+Percentage: 35.6445%
+Sequence 651 (J01415.2):
+GC count: 314
+Percentage: 30.6641%
+Sequence 652 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 653 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 654 (J01415.2):
+GC count: 118
+Percentage: 11.5234%
+Sequence 655 (J01415.2):
+GC count: 148
+Percentage: 14.4531%
+Sequence 656 (J01415.2):
+GC count: 156
+Percentage: 15.2344%
+Sequence 657 (J01415.2):
+GC count: 20
+Percentage: 1.95312%
+Sequence 658 (J01415.2):
+GC count: 141
+Percentage: 13.7695%
+Sequence 659 (J01415.2):
+GC count: 466
+Percentage: 45.5078%
+Sequence 660 (J01415.2):
+GC count: 135
+Percentage: 13.1836%
+Sequence 661 (J01415.2):
+GC count: 64
+Percentage: 6.25%
+Sequence 662 (J01415.2):
+GC count: 6
+Percentage: 0.585938%
+Sequence 663 (J01415.2):
+GC count: 23
+Percentage: 2.24609%
+Sequence 664 (J01415.2):
+GC count: 11
+Percentage: 1.07422%
+Sequence 665 (J01415.2):
+GC count: 0
+Percentage: 0%
+Sequence 666 (J01415.2):
+GC count: 240
+Percentage: 23.4375%
+Sequence 667 (J01415.2):
+GC count: 92
+Percentage: 8.98438%
+Sequence 668 (J01415.2):
+GC count: 205
+Percentage: 20.0195%
+Sequence 669 (J01415.2):
+GC count: 273
+Percentage: 26.6602%
+Sequence 670 (J01415.2):
+GC count: 396
+Percentage: 38.6719%
+Sequence 671 (J01415.2):
+GC count: 318
+Percentage: 31.0547%
+Sequence 672 (J01415.2):
+GC count: 337
+Percentage: 32.9102%
+Sequence 673 (J01415.2):
+GC count: 285
+Percentage: 27.832%
+Sequence 674 (J01415.2):
+GC count: 271
+Percentage: 26.4648%
+Sequence 675 (J01415.2):
+GC count: 318
+Percentage: 31.0547%
+Sequence 676 (J01415.2):
+GC count: 300
+Percentage: 29.2969%
+Sequence 677 (J01415.2):
+GC count: 411
+Percentage: 40.1367%
+Sequence 678 (J01415.2):
+GC count: 268
+Percentage: 26.1719%
+Sequence 679 (J01415.2):
+GC count: 218
+Percentage: 21.2891%
+Sequence 680 (J01415.2):
+GC count: 216
+Percentage: 21.0938%
+Sequence 681 (J01415.2):
+GC count: 344
+Percentage: 33.5938%
+Sequence 682 (J01415.2):
+GC count: 92
+Percentage: 8.98438%
+Sequence 683 (J01415.2):
+GC count: 49
+Percentage: 4.78516%
+Sequence 684 (J01415.2):
+GC count: 242
+Percentage: 23.6328%
+Sequence 685 (J01415.2):
+GC count: 105
+Percentage: 10.2539%
+Sequence 686 (J01415.2):
+GC count: 263
+Percentage: 25.6836%
+Sequence 687 (J01415.2):
+GC count: 319
+Percentage: 31.1523%
+Sequence 688 (J01415.2):
+GC count: 331
+Percentage: 32.3242%
+Sequence 689 (J01415.2):
+GC count: 286
+Percentage: 27.9297%
+Sequence 690 (J01415.2):
+GC count: 348
+Percentage: 33.9844%
+Sequence 691 (J01415.2):
+GC count: 308
+Percentage: 30.0781%
+Sequence 692 (J01415.2):
+GC count: 244
+Percentage: 23.8281%
+Sequence 693 (J01415.2):
+GC count: 143
+Percentage: 13.9648%
+Sequence 694 (J01415.2):
+GC count: 217
+Percentage: 21.1914%
+Sequence 695 (J01415.2):
+GC count: 130
+Percentage: 12.6953%
+Sequence 696 (J01415.2):
+GC count: 280
+Percentage: 27.3438%
+Sequence 697 (J01415.2):
+GC count: 181
+Percentage: 17.6758%
+Sequence 698 (J01415.2):
+GC count: 249
+Percentage: 24.3164%
+Sequence 699 (J01415.2):
+GC count: 192
+Percentage: 18.75%
+Sequence 700 (J01415.2):
+GC count: 122
+Percentage: 11.9141%
+Sequence 701 (J01415.2):
+GC count: 180
+Percentage: 17.5781%
+Sequence 702 (J01415.2):
+GC count: 117
+Percentage: 11.4258%
+Sequence 703 (J01415.2):
+GC count: 152
+Percentage: 14.8438%
+Sequence 704 (J01415.2):
+GC count: 110
+Percentage: 10.7422%
+Sequence 705 (J01415.2):
+GC count: 580
+Percentage: 56.6406%
+Sequence 706 (J01415.2):
+GC count: 583
+Percentage: 56.9336%
+Sequence 707 (J01415.2):
+GC count: 528
+Percentage: 51.5625%
+Sequence 708 (J01415.2):
+GC count: 287
+Percentage: 28.0273%

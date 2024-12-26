@@ -1,0 +1,2836 @@
+Sequence 0 (CM000663.2):
+GC count: 96166571
+Percentage: 41.7243%
+
+Sequence 1 (KI270706.1):
+GC count: 73616
+Percentage: 42.0531%
+
+Sequence 2 (KI270707.1):
+GC count: 13707
+Percentage: 42.7916%
+
+Sequence 3 (KI270708.1):
+GC count: 52371
+Percentage: 41.0167%
+
+Sequence 4 (KI270709.1):
+GC count: 24740
+Percentage: 37.0027%
+
+Sequence 5 (KI270710.1):
+GC count: 14323
+Percentage: 35.6506%
+
+Sequence 6 (KI270711.1):
+GC count: 18099
+Percentage: 42.8785%
+
+Sequence 7 (KI270712.1):
+GC count: 80064
+Percentage: 45.4798%
+
+Sequence 8 (KI270713.1):
+GC count: 19419
+Percentage: 47.6598%
+
+Sequence 9 (KI270714.1):
+GC count: 22799
+Percentage: 54.6516%
+
+Sequence 10 (CM000664.2):
+GC count: 96769083
+Percentage: 40.2286%
+
+Sequence 11 (KI270715.1):
+GC count: 62110
+Percentage: 38.4651%
+
+Sequence 12 (KI270716.1):
+GC count: 58808
+Percentage: 38.2369%
+
+Sequence 13 (CM000665.2):
+GC count: 78577742
+Percentage: 39.6657%
+
+Sequence 14 (GL000221.1):
+GC count: 60038
+Percentage: 38.6352%
+
+Sequence 15 (CM000666.2):
+GC count: 72568001
+Percentage: 38.2435%
+
+Sequence 16 (GL000008.2):
+GC count: 84165
+Percentage: 40.1342%
+
+Sequence 17 (CM000667.2):
+GC count: 71611274
+Percentage: 39.5063%
+
+Sequence 18 (GL000208.1):
+GC count: 34908
+Percentage: 37.6614%
+
+Sequence 19 (CM000668.2):
+GC count: 67360020
+Percentage: 39.6052%
+
+Sequence 20 (CM000669.2):
+GC count: 64696843
+Percentage: 40.6975%
+
+Sequence 21 (CM000670.2):
+GC count: 58133960
+Percentage: 40.1566%
+
+Sequence 22 (CM000671.2):
+GC count: 50270473
+Percentage: 41.2762%
+
+Sequence 23 (KI270717.1):
+GC count: 16258
+Percentage: 40.5821%
+
+Sequence 24 (KI270718.1):
+GC count: 14672
+Percentage: 38.5557%
+
+Sequence 25 (KI270719.1):
+GC count: 67348
+Percentage: 38.0831%
+
+Sequence 26 (KI270720.1):
+GC count: 14735
+Percentage: 37.7337%
+
+Sequence 27 (CM000672.2):
+GC count: 55359481
+Percentage: 41.5415%
+
+Sequence 28 (CM000673.2):
+GC count: 55885058
+Percentage: 41.5398%
+
+Sequence 29 (KI270721.1):
+GC count: 62054
+Percentage: 61.8585%
+
+Sequence 30 (CM000674.2):
+GC count: 54275482
+Percentage: 40.7664%
+
+Sequence 31 (CM000675.2):
+GC count: 37772797
+Percentage: 38.5503%
+
+Sequence 32 (CM000676.2):
+GC count: 36982791
+Percentage: 40.8342%
+
+Sequence 33 (GL000009.2):
+GC count: 80796
+Percentage: 40.0557%
+
+Sequence 34 (GL000225.1):
+GC count: 100631
+Percentage: 47.6533%
+
+Sequence 35 (KI270722.1):
+GC count: 77946
+Percentage: 40.168%
+
+Sequence 36 (GL000194.1):
+GC count: 82827
+Percentage: 43.2587%
+
+Sequence 37 (KI270723.1):
+GC count: 17287
+Percentage: 45.3548%
+
+Sequence 38 (KI270724.1):
+GC count: 17756
+Percentage: 44.8894%
+
+Sequence 39 (KI270725.1):
+GC count: 65609
+Percentage: 37.966%
+
+Sequence 40 (KI270726.1):
+GC count: 18552
+Percentage: 42.4152%
+
+Sequence 41 (CM000677.2):
+GC count: 35578844
+Percentage: 42.0348%
+
+Sequence 42 (KI270727.1):
+GC count: 175099
+Percentage: 39.063%
+
+Sequence 43 (CM000678.2):
+GC count: 36472718
+Percentage: 44.5844%
+
+Sequence 44 (KI270728.1):
+GC count: 650889
+Percentage: 41.3852%
+
+Sequence 45 (CM000679.2):
+GC count: 37575444
+Percentage: 45.3152%
+
+Sequence 46 (GL000205.2):
+GC count: 77151
+Percentage: 41.5704%
+
+Sequence 47 (KI270729.1):
+GC count: 100469
+Percentage: 37.2823%
+
+Sequence 48 (KI270730.1):
+GC count: 42400
+Percentage: 39.7816%
+
+Sequence 49 (CM000680.2):
+GC count: 31856106
+Percentage: 39.7756%
+
+Sequence 50 (CM000681.2):
+GC count: 28015712
+Percentage: 47.9387%
+
+Sequence 51 (CM000682.2):
+GC count: 28010605
+Percentage: 43.8047%
+
+Sequence 52 (CM000683.2):
+GC count: 16411625
+Percentage: 40.9384%
+
+Sequence 53 (CM000684.2):
+GC count: 18406838
+Percentage: 47.0044%
+
+Sequence 54 (KI270731.1):
+GC count: 71939
+Percentage: 47.7195%
+
+Sequence 55 (KI270732.1):
+GC count: 15435
+Percentage: 37.1543%
+
+Sequence 56 (KI270733.1):
+GC count: 85609
+Percentage: 47.6209%
+
+Sequence 57 (KI270734.1):
+GC count: 81066
+Percentage: 49.116%
+
+Sequence 58 (KI270735.1):
+GC count: 15589
+Percentage: 36.4135%
+
+Sequence 59 (KI270736.1):
+GC count: 74787
+Percentage: 44.0865%
+
+Sequence 60 (KI270737.1):
+GC count: 37835
+Percentage: 36.5814%
+
+Sequence 61 (KI270738.1):
+GC count: 34762
+Percentage: 36.2784%
+
+Sequence 62 (KI270739.1):
+GC count: 27012
+Percentage: 37.2975%
+
+Sequence 63 (CM000685.2):
+GC count: 61221521
+Percentage: 39.525%
+
+Sequence 64 (CM000686.2):
+GC count: 10572683
+Percentage: 40.0252%
+
+Sequence 65 (KI270740.1):
+GC count: 15988
+Percentage: 42.9323%
+
+Sequence 66 (KI270302.1):
+GC count: 946
+Percentage: 41.6007%
+
+Sequence 67 (KI270304.1):
+GC count: 849
+Percentage: 39.2148%
+
+Sequence 68 (KI270303.1):
+GC count: 766
+Percentage: 39.4439%
+
+Sequence 69 (KI270305.1):
+GC count: 611
+Percentage: 41.5082%
+
+Sequence 70 (KI270322.1):
+GC count: 2608
+Percentage: 42.0103%
+
+Sequence 71 (KI270320.1):
+GC count: 1840
+Percentage: 41.6667%
+
+Sequence 72 (KI270310.1):
+GC count: 473
+Percentage: 39.3838%
+
+Sequence 73 (KI270316.1):
+GC count: 555
+Percentage: 38.4349%
+
+Sequence 74 (KI270315.1):
+GC count: 871
+Percentage: 38.2689%
+
+Sequence 75 (KI270312.1):
+GC count: 371
+Percentage: 37.1744%
+
+Sequence 76 (KI270311.1):
+GC count: 1146
+Percentage: 38.6379%
+
+Sequence 77 (KI270317.1):
+GC count: 1388
+Percentage: 38.3002%
+
+Sequence 78 (KI270412.1):
+GC count: 453
+Percentage: 38.4224%
+
+Sequence 79 (KI270411.1):
+GC count: 997
+Percentage: 37.6795%
+
+Sequence 80 (KI270414.1):
+GC count: 940
+Percentage: 37.7662%
+
+Sequence 81 (KI270419.1):
+GC count: 402
+Percentage: 39.0671%
+
+Sequence 82 (KI270418.1):
+GC count: 855
+Percentage: 39.8601%
+
+Sequence 83 (KI270420.1):
+GC count: 941
+Percentage: 40.5429%
+
+Sequence 84 (KI270424.1):
+GC count: 787
+Percentage: 36.7757%
+
+Sequence 85 (KI270417.1):
+GC count: 744
+Percentage: 36.417%
+
+Sequence 86 (KI270422.1):
+GC count: 580
+Percentage: 40.1384%
+
+Sequence 87 (KI270423.1):
+GC count: 389
+Percentage: 39.6534%
+
+Sequence 88 (KI270425.1):
+GC count: 731
+Percentage: 38.8004%
+
+Sequence 89 (KI270429.1):
+GC count: 502
+Percentage: 36.8846%
+
+Sequence 90 (KI270442.1):
+GC count: 150035
+Percentage: 40.4375%
+
+Sequence 91 (KI270466.1):
+GC count: 277
+Percentage: 22.4655%
+
+Sequence 92 (KI270465.1):
+GC count: 665
+Percentage: 37.4859%
+
+Sequence 93 (KI270467.1):
+GC count: 951
+Percentage: 24.2602%
+
+Sequence 94 (KI270435.1):
+GC count: 34245
+Percentage: 36.8614%
+
+Sequence 95 (KI270438.1):
+GC count: 32767
+Percentage: 39.0032%
+
+Sequence 96 (KI270468.1):
+GC count: 1481
+Percentage: 36.5228%
+
+Sequence 97 (KI270510.1):
+GC count: 869
+Percentage: 35.9834%
+
+Sequence 98 (KI270509.1):
+GC count: 832
+Percentage: 35.893%
+
+Sequence 99 (KI270518.1):
+GC count: 791
+Percentage: 36.1848%
+
+Sequence 100 (KI270508.1):
+GC count: 813
+Percentage: 41.6709%
+
+Sequence 101 (KI270516.1):
+GC count: 472
+Percentage: 36.3077%
+
+Sequence 102 (KI270512.1):
+GC count: 8767
+Percentage: 38.6399%
+
+Sequence 103 (KI270519.1):
+GC count: 50752
+Percentage: 36.8655%
+
+Sequence 104 (KI270522.1):
+GC count: 2092
+Percentage: 36.8699%
+
+Sequence 105 (KI270511.1):
+GC count: 2955
+Percentage: 36.3603%
+
+Sequence 106 (KI270515.1):
+GC count: 2259
+Percentage: 35.5133%
+
+Sequence 107 (KI270507.1):
+GC count: 1965
+Percentage: 36.7084%
+
+Sequence 108 (KI270517.1):
+GC count: 1166
+Percentage: 35.8438%
+
+Sequence 109 (KI270529.1):
+GC count: 738
+Percentage: 38.8626%
+
+Sequence 110 (KI270528.1):
+GC count: 1057
+Percentage: 35.4341%
+
+Sequence 111 (KI270530.1):
+GC count: 840
+Percentage: 38.7454%
+
+Sequence 112 (KI270539.1):
+GC count: 790
+Percentage: 79.5569%
+
+Sequence 113 (KI270538.1):
+GC count: 24361
+Percentage: 38.2872%
+
+Sequence 114 (KI270544.1):
+GC count: 472
+Percentage: 39.2679%
+
+Sequence 115 (KI270548.1):
+GC count: 631
+Percentage: 39.4622%
+
+Sequence 116 (KI270583.1):
+GC count: 502
+Percentage: 35.8571%
+
+Sequence 117 (KI270587.1):
+GC count: 1090
+Percentage: 36.7127%
+
+Sequence 118 (KI270580.1):
+GC count: 590
+Percentage: 37.991%
+
+Sequence 119 (KI270581.1):
+GC count: 2817
+Percentage: 39.9801%
+
+Sequence 120 (KI270579.1):
+GC count: 11249
+Percentage: 36.2485%
+
+Sequence 121 (KI270589.1):
+GC count: 13290
+Percentage: 37.5466%
+
+Sequence 122 (KI270590.1):
+GC count: 1716
+Percentage: 36.6275%
+
+Sequence 123 (KI270584.1):
+GC count: 1632
+Percentage: 36.1622%
+
+Sequence 124 (KI270582.1):
+GC count: 2566
+Percentage: 39.4526%
+
+Sequence 125 (KI270588.1):
+GC count: 2219
+Percentage: 36.0344%
+
+Sequence 126 (KI270593.1):
+GC count: 1119
+Percentage: 36.7971%
+
+Sequence 127 (KI270591.1):
+GC count: 2195
+Percentage: 37.8709%
+
+Sequence 128 (KI270330.1):
+GC count: 791
+Percentage: 47.8814%
+
+Sequence 129 (KI270329.1):
+GC count: 390
+Percentage: 37.5%
+
+Sequence 130 (KI270334.1):
+GC count: 548
+Percentage: 40.0585%
+
+Sequence 131 (KI270333.1):
+GC count: 650
+Percentage: 24.083%
+
+Sequence 132 (KI270335.1):
+GC count: 426
+Percentage: 40.6489%
+
+Sequence 133 (KI270338.1):
+GC count: 581
+Percentage: 40.6863%
+
+Sequence 134 (KI270340.1):
+GC count: 576
+Percentage: 40.3361%
+
+Sequence 135 (KI270336.1):
+GC count: 252
+Percentage: 24.5614%
+
+Sequence 136 (KI270337.1):
+GC count: 286
+Percentage: 25.5129%
+
+Sequence 137 (KI270363.1):
+GC count: 692
+Percentage: 38.3805%
+
+Sequence 138 (KI270364.1):
+GC count: 1034
+Percentage: 36.2172%
+
+Sequence 139 (KI270362.1):
+GC count: 1276
+Percentage: 36.1473%
+
+Sequence 140 (KI270366.1):
+GC count: 3007
+Percentage: 36.1418%
+
+Sequence 141 (KI270378.1):
+GC count: 407
+Percentage: 38.8359%
+
+Sequence 142 (KI270379.1):
+GC count: 396
+Percentage: 37.8947%
+
+Sequence 143 (KI270389.1):
+GC count: 483
+Percentage: 37.2111%
+
+Sequence 144 (KI270390.1):
+GC count: 883
+Percentage: 36.992%
+
+Sequence 145 (KI270387.1):
+GC count: 559
+Percentage: 36.3695%
+
+Sequence 146 (KI270395.1):
+GC count: 423
+Percentage: 37.0079%
+
+Sequence 147 (KI270396.1):
+GC count: 703
+Percentage: 37.3936%
+
+Sequence 148 (KI270388.1):
+GC count: 450
+Percentage: 37.0066%
+
+Sequence 149 (KI270394.1):
+GC count: 359
+Percentage: 37.0103%
+
+Sequence 150 (KI270386.1):
+GC count: 665
+Percentage: 37.1924%
+
+Sequence 151 (KI270391.1):
+GC count: 552
+Percentage: 37.1968%
+
+Sequence 152 (KI270383.1):
+GC count: 661
+Percentage: 37.7714%
+
+Sequence 153 (KI270393.1):
+GC count: 495
+Percentage: 37.844%
+
+Sequence 154 (KI270384.1):
+GC count: 615
+Percentage: 37.0929%
+
+Sequence 155 (KI270392.1):
+GC count: 357
+Percentage: 36.7662%
+
+Sequence 156 (KI270381.1):
+GC count: 730
+Percentage: 37.8238%
+
+Sequence 157 (KI270385.1):
+GC count: 366
+Percentage: 36.9697%
+
+Sequence 158 (KI270382.1):
+GC count: 1562
+Percentage: 37.0581%
+
+Sequence 159 (KI270376.1):
+GC count: 416
+Percentage: 36.6197%
+
+Sequence 160 (KI270374.1):
+GC count: 975
+Percentage: 36.7093%
+
+Sequence 161 (KI270372.1):
+GC count: 588
+Percentage: 35.6364%
+
+Sequence 162 (KI270373.1):
+GC count: 564
+Percentage: 38.8697%
+
+Sequence 163 (KI270375.1):
+GC count: 857
+Percentage: 36.0387%
+
+Sequence 164 (KI270371.1):
+GC count: 1041
+Percentage: 37.1123%
+
+Sequence 165 (KI270448.1):
+GC count: 2975
+Percentage: 37.2247%
+
+Sequence 166 (KI270521.1):
+GC count: 3022
+Percentage: 39.5446%
+
+Sequence 167 (GL000195.1):
+GC count: 74370
+Percentage: 40.6625%
+
+Sequence 168 (GL000219.1):
+GC count: 71609
+Percentage: 39.9608%
+
+Sequence 169 (GL000220.1):
+GC count: 78417
+Percentage: 48.4648%
+
+Sequence 170 (GL000224.1):
+GC count: 77785
+Percentage: 43.2877%
+
+Sequence 171 (KI270741.1):
+GC count: 66018
+Percentage: 42.4226%
+
+Sequence 172 (GL000226.1):
+GC count: 5857
+Percentage: 39.0259%
+
+Sequence 173 (GL000213.1):
+GC count: 67177
+Percentage: 40.902%
+
+Sequence 174 (KI270743.1):
+GC count: 88781
+Percentage: 42.1446%
+
+Sequence 175 (KI270744.1):
+GC count: 70888
+Percentage: 42.077%
+
+Sequence 176 (KI270745.1):
+GC count: 19864
+Percentage: 47.4183%
+
+Sequence 177 (KI270746.1):
+GC count: 23446
+Percentage: 35.2646%
+
+Sequence 178 (KI270747.1):
+GC count: 74068
+Percentage: 37.2697%
+
+Sequence 179 (KI270748.1):
+GC count: 42193
+Percentage: 45.2128%
+
+Sequence 180 (KI270749.1):
+GC count: 58851
+Percentage: 37.0694%
+
+Sequence 181 (KI270750.1):
+GC count: 60060
+Percentage: 40.3493%
+
+Sequence 182 (KI270751.1):
+GC count: 57454
+Percentage: 38.1141%
+
+Sequence 183 (KI270752.1):
+GC count: 11462
+Percentage: 41.312%
+
+Sequence 184 (KI270753.1):
+GC count: 26867
+Percentage: 42.684%
+
+Sequence 185 (KI270754.1):
+GC count: 21935
+Percentage: 54.5769%
+
+Sequence 186 (KI270755.1):
+GC count: 15406
+Percentage: 41.9519%
+
+Sequence 187 (KI270756.1):
+GC count: 30595
+Percentage: 38.4727%
+
+Sequence 188 (KI270757.1):
+GC count: 22808
+Percentage: 36.8757%
+
+Sequence 189 (GL000214.1):
+GC count: 57182
+Percentage: 41.5211%
+
+Sequence 190 (KI270742.1):
+GC count: 72316
+Percentage: 38.7257%
+
+Sequence 191 (GL000216.2):
+GC count: 73938
+Percentage: 41.9216%
+
+Sequence 192 (GL000218.1):
+GC count: 67070
+Percentage: 41.6204%
+
+Sequence 193 (KQ031383.1):
+GC count: 213245
+Percentage: 45.6488%
+
+Sequence 194 (KQ983255.1):
+GC count: 127055
+Percentage: 45.5952%
+
+Sequence 195 (MU273333.1):
+GC count: 761969
+Percentage: 48.4502%
+
+Sequence 196 (KN538361.1):
+GC count: 153669
+Percentage: 50.2939%
+
+Sequence 197 (KQ458383.1):
+GC count: 163009
+Percentage: 46.5823%
+
+Sequence 198 (KN196473.1):
+GC count: 79319
+Percentage: 47.725%
+
+Sequence 199 (KZ208904.1):
+GC count: 76131
+Percentage: 45.8245%
+
+Sequence 200 (KZ559100.1):
+GC count: 22087
+Percentage: 49.1314%
+
+Sequence 201 (KN196472.1):
+GC count: 92697
+Percentage: 49.7051%
+
+Sequence 202 (KZ208905.1):
+GC count: 48969
+Percentage: 34.8894%
+
+Sequence 203 (KQ458382.1):
+GC count: 48245
+Percentage: 34.2117%
+
+Sequence 204 (KV880763.1):
+GC count: 220043
+Percentage: 39.9338%
+
+Sequence 205 (KN196474.1):
+GC count: 51648
+Percentage: 42.3268%
+
+Sequence 206 (MU273330.1):
+GC count: 211852
+Percentage: 40.9959%
+
+Sequence 207 (MU273335.1):
+GC count: 106475
+Percentage: 50.2397%
+
+Sequence 208 (MU273336.1):
+GC count: 94119
+Percentage: 37.5804%
+
+Sequence 209 (MU273331.1):
+GC count: 294685
+Percentage: 34.8925%
+
+Sequence 210 (KN538360.1):
+GC count: 196402
+Percentage: 42.6868%
+
+Sequence 211 (KZ208906.1):
+GC count: 168032
+Percentage: 50.914%
+
+Sequence 212 (KQ458384.1):
+GC count: 91992
+Percentage: 43.3505%
+
+Sequence 213 (MU273334.1):
+GC count: 95105
+Percentage: 45.1964%
+
+Sequence 214 (MU273332.1):
+GC count: 127572
+Percentage: 38.0631%
+
+Sequence 215 (ML143342.1):
+GC count: 34761
+Percentage: 41.361%
+
+Sequence 216 (MU273344.1):
+GC count: 99094
+Percentage: 40.492%
+
+Sequence 217 (MU273345.1):
+GC count: 64711
+Percentage: 37.1081%
+
+Sequence 218 (MU273343.1):
+GC count: 199315
+Percentage: 40.7261%
+
+Sequence 219 (MU273340.1):
+GC count: 132135
+Percentage: 46.3679%
+
+Sequence 220 (KQ031384.1):
+GC count: 193675
+Percentage: 40.2446%
+
+Sequence 221 (MU273337.1):
+GC count: 193750
+Percentage: 44.8722%
+
+Sequence 222 (MU273342.1):
+GC count: 392059
+Percentage: 41.0496%
+
+Sequence 223 (KZ208907.1):
+GC count: 68917
+Percentage: 37.9378%
+
+Sequence 224 (MU273339.1):
+GC count: 225781
+Percentage: 45.1038%
+
+Sequence 225 (MU273338.1):
+GC count: 215368
+Percentage: 40.2368%
+
+Sequence 226 (MU273341.1):
+GC count: 42195
+Percentage: 35.0512%
+
+Sequence 227 (KQ983256.1):
+GC count: 225596
+Percentage: 42.1605%
+
+Sequence 228 (KZ208908.1):
+GC count: 59498
+Percentage: 42.3893%
+
+Sequence 229 (KN538363.1):
+GC count: 173301
+Percentage: 47.4149%
+
+Sequence 230 (ML143341.1):
+GC count: 70382
+Percentage: 48.2151%
+
+Sequence 231 (KN538362.1):
+GC count: 103412
+Percentage: 49.6817%
+
+Sequence 232 (KV766192.1):
+GC count: 162741
+Percentage: 39.5334%
+
+Sequence 233 (MU273347.1):
+GC count: 133319
+Percentage: 44.2465%
+
+Sequence 234 (MU273348.1):
+GC count: 210871
+Percentage: 44.3122%
+
+Sequence 235 (KN196475.1):
+GC count: 193971
+Percentage: 42.9931%
+
+Sequence 236 (KQ031385.1):
+GC count: 152861
+Percentage: 40.9048%
+
+Sequence 237 (KN538364.1):
+GC count: 185301
+Percentage: 44.6177%
+
+Sequence 238 (ML143343.1):
+GC count: 99274
+Percentage: 46.079%
+
+Sequence 239 (KZ208909.1):
+GC count: 64604
+Percentage: 36.7383%
+
+Sequence 240 (KQ031386.1):
+GC count: 58731
+Percentage: 35.4403%
+
+Sequence 241 (KN196476.1):
+GC count: 105949
+Percentage: 37.1944%
+
+Sequence 242 (KZ559104.1):
+GC count: 35558
+Percentage: 33.6956%
+
+Sequence 243 (KZ559105.1):
+GC count: 73683
+Percentage: 37.7739%
+
+Sequence 244 (KZ559103.1):
+GC count: 146761
+Percentage: 48.4544%
+
+Sequence 245 (KZ559102.1):
+GC count: 69198
+Percentage: 34.9923%
+
+Sequence 246 (KZ559101.1):
+GC count: 57633
+Percentage: 35.1333%
+
+Sequence 247 (MU273346.1):
+GC count: 193595
+Percentage: 41.2482%
+
+Sequence 248 (ML143344.1):
+GC count: 132402
+Percentage: 56.1659%
+
+Sequence 249 (ML143347.1):
+GC count: 96064
+Percentage: 54.3736%
+
+Sequence 250 (KQ090013.1):
+GC count: 34222
+Percentage: 37.6389%
+
+Sequence 251 (MU273351.1):
+GC count: 79459
+Percentage: 38.6303%
+
+Sequence 252 (ML143346.1):
+GC count: 17244
+Percentage: 32.2462%
+
+Sequence 253 (ML143348.1):
+GC count: 42427
+Percentage: 33.7932%
+
+Sequence 254 (ML143345.1):
+GC count: 145910
+Percentage: 42.7806%
+
+Sequence 255 (ML143349.1):
+GC count: 92124
+Percentage: 33.3651%
+
+Sequence 256 (KQ090014.1):
+GC count: 56331
+Percentage: 34.4008%
+
+Sequence 257 (KQ090015.1):
+GC count: 81345
+Percentage: 34.3936%
+
+Sequence 258 (MU273349.1):
+GC count: 127594
+Percentage: 41.3351%
+
+Sequence 259 (KV766193.1):
+GC count: 161014
+Percentage: 38.2752%
+
+Sequence 260 (MU273350.1):
+GC count: 44111
+Percentage: 38.9109%
+
+Sequence 261 (KQ983258.1):
+GC count: 100201
+Percentage: 48.7824%
+
+Sequence 262 (KQ983257.1):
+GC count: 110392
+Percentage: 47.9061%
+
+Sequence 263 (MU273354.1):
+GC count: 730008
+Percentage: 39.2122%
+
+Sequence 264 (KZ208910.1):
+GC count: 57166
+Percentage: 42.0378%
+
+Sequence 265 (MU273353.1):
+GC count: 96315
+Percentage: 46.2153%
+
+Sequence 266 (KN196477.1):
+GC count: 49623
+Percentage: 35.6777%
+
+Sequence 267 (KV575243.1):
+GC count: 145387
+Percentage: 40.1377%
+
+Sequence 268 (MU273356.1):
+GC count: 107109
+Percentage: 35.4097%
+
+Sequence 269 (ML143350.1):
+GC count: 42631
+Percentage: 47.3909%
+
+Sequence 270 (MU273355.1):
+GC count: 202053
+Percentage: 39.7482%
+
+Sequence 271 (KV575244.1):
+GC count: 340776
+Percentage: 50.6309%
+
+Sequence 272 (MU273352.1):
+GC count: 16041
+Percentage: 46.6308%
+
+Sequence 273 (KZ208911.1):
+GC count: 104800
+Percentage: 43.1638%
+
+Sequence 274 (KQ090017.1):
+GC count: 33061
+Percentage: 40.164%
+
+Sequence 275 (MU273357.1):
+GC count: 157662
+Percentage: 41.1513%
+
+Sequence 276 (KQ031387.1):
+GC count: 118432
+Percentage: 36.9235%
+
+Sequence 277 (KN196478.1):
+GC count: 91244
+Percentage: 34.0044%
+
+Sequence 278 (KQ090016.1):
+GC count: 93508
+Percentage: 38.0553%
+
+Sequence 279 (KV766194.1):
+GC count: 61220
+Percentage: 43.9083%
+
+Sequence 280 (ML143351.1):
+GC count: 23952
+Percentage: 32.6923%
+
+Sequence 281 (ML143352.1):
+GC count: 137339
+Percentage: 53.9094%
+
+Sequence 282 (KZ559106.1):
+GC count: 61359
+Percentage: 35.5591%
+
+Sequence 283 (MU273358.1):
+GC count: 171376
+Percentage: 36.9013%
+
+Sequence 284 (KV880764.1):
+GC count: 63116
+Percentage: 44.4075%
+
+Sequence 285 (KV880765.1):
+GC count: 173816
+Percentage: 37.119%
+
+Sequence 286 (KZ208912.1):
+GC count: 237700
+Percentage: 40.3116%
+
+Sequence 287 (KZ208913.1):
+GC count: 273960
+Percentage: 40.2491%
+
+Sequence 288 (KQ031388.1):
+GC count: 73708
+Percentage: 40.9644%
+
+Sequence 289 (MU273362.1):
+GC count: 180553
+Percentage: 42.0141%
+
+Sequence 290 (KZ208915.1):
+GC count: 2810540
+Percentage: 44.1393%
+
+Sequence 291 (KV880767.1):
+GC count: 117578
+Percentage: 44.2229%
+
+Sequence 292 (MU273359.1):
+GC count: 65425
+Percentage: 43.529%
+
+Sequence 293 (KV880766.1):
+GC count: 60958
+Percentage: 38.8272%
+
+Sequence 294 (MU273361.1):
+GC count: 44858
+Percentage: 41.9606%
+
+Sequence 295 (KZ559107.1):
+GC count: 40997
+Percentage: 39.7751%
+
+Sequence 296 (MU273363.1):
+GC count: 118082
+Percentage: 56.9424%
+
+Sequence 297 (KZ208914.1):
+GC count: 98224
+Percentage: 59.4864%
+
+Sequence 298 (MU273360.1):
+GC count: 17842
+Percentage: 45.411%
+
+Sequence 299 (KQ090018.1):
+GC count: 58527
+Percentage: 35.7129%
+
+Sequence 300 (KQ090019.1):
+GC count: 46986
+Percentage: 35.0383%
+
+Sequence 301 (MU273366.1):
+GC count: 225047
+Percentage: 39.5049%
+
+Sequence 302 (MU273364.1):
+GC count: 147059
+Percentage: 43.1616%
+
+Sequence 303 (MU273365.1):
+GC count: 198205
+Percentage: 41.1001%
+
+Sequence 304 (KN196479.1):
+GC count: 171864
+Percentage: 52.0541%
+
+Sequence 305 (ML143353.1):
+GC count: 13675
+Percentage: 53.8216%
+
+Sequence 306 (ML143354.1):
+GC count: 182526
+Percentage: 40.1189%
+
+Sequence 307 (KN538367.1):
+GC count: 156471
+Percentage: 37.2405%
+
+Sequence 308 (ML143355.1):
+GC count: 133732
+Percentage: 45.651%
+
+Sequence 309 (KQ090020.1):
+GC count: 65774
+Percentage: 35.4563%
+
+Sequence 310 (KN196480.1):
+GC count: 117644
+Percentage: 42.3489%
+
+Sequence 311 (KQ090021.1):
+GC count: 99091
+Percentage: 37.4571%
+
+Sequence 312 (MU273367.1):
+GC count: 93129
+Percentage: 47.4514%
+
+Sequence 313 (KN538366.1):
+GC count: 41969
+Percentage: 49.2109%
+
+Sequence 314 (KN538365.1):
+GC count: 5438
+Percentage: 37.9034%
+
+Sequence 315 (KQ759759.2):
+GC count: 120501
+Percentage: 58.7813%
+
+Sequence 316 (MU273369.1):
+GC count: 241916
+Percentage: 55.6345%
+
+Sequence 317 (ML143358.1):
+GC count: 154153
+Percentage: 57.0679%
+
+Sequence 318 (MU273371.1):
+GC count: 43605
+Percentage: 35.5315%
+
+Sequence 319 (KN538368.1):
+GC count: 79297
+Percentage: 38.9566%
+
+Sequence 320 (ML143360.1):
+GC count: 73640
+Percentage: 43.0825%
+
+Sequence 321 (KZ559109.1):
+GC count: 125312
+Percentage: 44.8113%
+
+Sequence 322 (KZ559108.1):
+GC count: 109994
+Percentage: 36.0348%
+
+Sequence 323 (KV766195.1):
+GC count: 57582
+Percentage: 40.874%
+
+Sequence 324 (MU273370.1):
+GC count: 123674
+Percentage: 35.8885%
+
+Sequence 325 (KZ559111.1):
+GC count: 69312
+Percentage: 38.2586%
+
+Sequence 326 (ML143359.1):
+GC count: 102960
+Percentage: 47.4306%
+
+Sequence 327 (ML143357.1):
+GC count: 61148
+Percentage: 36.9655%
+
+Sequence 328 (KZ559110.1):
+GC count: 109668
+Percentage: 36.3576%
+
+Sequence 329 (KQ090022.1):
+GC count: 71322
+Percentage: 39.197%
+
+Sequence 330 (ML143356.1):
+GC count: 14898
+Percentage: 32.9187%
+
+Sequence 331 (MU273368.1):
+GC count: 93461
+Percentage: 35.7822%
+
+Sequence 332 (KN196481.1):
+GC count: 54138
+Percentage: 49.7249%
+
+Sequence 333 (KQ090023.1):
+GC count: 42555
+Percentage: 38.9259%
+
+Sequence 334 (KZ208916.1):
+GC count: 488189
+Percentage: 46.6346%
+
+Sequence 335 (ML143362.1):
+GC count: 86782
+Percentage: 45.0743%
+
+Sequence 336 (KN538369.1):
+GC count: 226024
+Percentage: 41.776%
+
+Sequence 337 (KN196482.1):
+GC count: 75598
+Percentage: 35.7645%
+
+Sequence 338 (MU273372.1):
+GC count: 53243
+Percentage: 50.9322%
+
+Sequence 339 (KZ208918.1):
+GC count: 60022
+Percentage: 34.336%
+
+Sequence 340 (KQ759760.1):
+GC count: 106720
+Percentage: 33.8139%
+
+Sequence 341 (KZ208917.1):
+GC count: 32732
+Percentage: 50.599%
+
+Sequence 342 (KN538370.1):
+GC count: 43453
+Percentage: 50.2155%
+
+Sequence 343 (KZ559112.1):
+GC count: 63731
+Percentage: 41.3464%
+
+Sequence 344 (ML143361.1):
+GC count: 168913
+Percentage: 56.7645%
+
+Sequence 345 (ML143366.1):
+GC count: 170043
+Percentage: 41.4828%
+
+Sequence 346 (KN538372.1):
+GC count: 152716
+Percentage: 42.8056%
+
+Sequence 347 (KQ090024.1):
+GC count: 58716
+Percentage: 34.9197%
+
+Sequence 348 (ML143363.1):
+GC count: 921
+Percentage: 12.6009%
+
+Sequence 349 (KN196483.1):
+GC count: 11977
+Percentage: 33.7808%
+
+Sequence 350 (KN538373.1):
+GC count: 60488
+Percentage: 40.6609%
+
+Sequence 351 (KQ090025.1):
+GC count: 47921
+Percentage: 38.8087%
+
+Sequence 352 (ML143364.1):
+GC count: 76460
+Percentage: 48.105%
+
+Sequence 353 (ML143365.1):
+GC count: 36309
+Percentage: 55.5234%
+
+Sequence 354 (KN538371.1):
+GC count: 117227
+Percentage: 56.8181%
+
+Sequence 355 (ML143367.1):
+GC count: 165763
+Percentage: 41.5256%
+
+Sequence 356 (MU273373.1):
+GC count: 282677
+Percentage: 39.117%
+
+Sequence 357 (KZ208920.1):
+GC count: 320390
+Percentage: 46.3707%
+
+Sequence 358 (ML143368.1):
+GC count: 92630
+Percentage: 35.0568%
+
+Sequence 359 (KZ208919.1):
+GC count: 71338
+Percentage: 41.5243%
+
+Sequence 360 (KN538374.1):
+GC count: 2144986
+Percentage: 43.2285%
+
+Sequence 361 (ML143372.1):
+GC count: 164582
+Percentage: 41.5071%
+
+Sequence 362 (ML143371.1):
+GC count: 2301315
+Percentage: 41.8387%
+
+Sequence 363 (KQ031389.1):
+GC count: 431263
+Percentage: 42.0606%
+
+Sequence 364 (MU273375.1):
+GC count: 88541
+Percentage: 43.401%
+
+Sequence 365 (ML143370.1):
+GC count: 190188
+Percentage: 51.5046%
+
+Sequence 366 (MU273374.1):
+GC count: 489308
+Percentage: 42.38%
+
+Sequence 367 (ML143369.1):
+GC count: 42682
+Percentage: 43.6586%
+
+Sequence 368 (MU273376.1):
+GC count: 51753
+Percentage: 59.0013%
+
+Sequence 369 (KQ090026.1):
+GC count: 31283
+Percentage: 53.0077%
+
+Sequence 370 (KZ559113.1):
+GC count: 215548
+Percentage: 44.867%
+
+Sequence 371 (KV880768.1):
+GC count: 854587
+Percentage: 44.3454%
+
+Sequence 372 (ML143373.1):
+GC count: 119052
+Percentage: 43.936%
+
+Sequence 373 (KQ090027.1):
+GC count: 110844
+Percentage: 41.4427%
+
+Sequence 374 (KZ208921.1):
+GC count: 41168
+Percentage: 52.3706%
+
+Sequence 375 (KQ031390.1):
+GC count: 61830
+Percentage: 36.5564%
+
+Sequence 376 (MU273377.1):
+GC count: 153550
+Percentage: 45.8362%
+
+Sequence 377 (KV766196.1):
+GC count: 132182
+Percentage: 46.8865%
+
+Sequence 378 (ML143374.1):
+GC count: 73136
+Percentage: 53.0325%
+
+Sequence 379 (KV575245.1):
+GC count: 82117
+Percentage: 53.0736%
+
+Sequence 380 (KV766198.1):
+GC count: 141218
+Percentage: 51.1119%
+
+Sequence 381 (MU273380.1):
+GC count: 225204
+Percentage: 41.8174%
+
+Sequence 382 (MU273378.1):
+GC count: 156249
+Percentage: 41.9079%
+
+Sequence 383 (KV766197.1):
+GC count: 91436
+Percentage: 37.0344%
+
+Sequence 384 (KZ559114.1):
+GC count: 52153
+Percentage: 44.6695%
+
+Sequence 385 (MU273383.1):
+GC count: 85887
+Percentage: 49.7581%
+
+Sequence 386 (MU273379.1):
+GC count: 121598
+Percentage: 51.7707%
+
+Sequence 387 (MU273382.1):
+GC count: 112122
+Percentage: 59.7582%
+
+Sequence 388 (ML143375.1):
+GC count: 33605
+Percentage: 59.2733%
+
+Sequence 389 (MU273381.1):
+GC count: 74222
+Percentage: 51.2976%
+
+Sequence 390 (KZ559116.1):
+GC count: 58832
+Percentage: 36.0521%
+
+Sequence 391 (KQ458385.1):
+GC count: 82261
+Percentage: 40.1076%
+
+Sequence 392 (KZ559115.1):
+GC count: 98651
+Percentage: 42.7351%
+
+Sequence 393 (KQ090028.1):
+GC count: 203563
+Percentage: 49.968%
+
+Sequence 394 (KZ208922.1):
+GC count: 38510
+Percentage: 41.3775%
+
+Sequence 395 (MU273386.1):
+GC count: 106688
+Percentage: 47.1724%
+
+Sequence 396 (MU273387.1):
+GC count: 48828
+Percentage: 54.7332%
+
+Sequence 397 (MU273384.1):
+GC count: 155868
+Percentage: 46.7015%
+
+Sequence 398 (ML143376.1):
+GC count: 263666
+Percentage: 53.4641%
+
+Sequence 399 (KQ458386.1):
+GC count: 209274
+Percentage: 51.623%
+
+Sequence 400 (MU273385.1):
+GC count: 68021
+Percentage: 49.3557%
+
+Sequence 401 (KN196484.1):
+GC count: 166336
+Percentage: 44.8445%
+
+Sequence 402 (KV575246.1):
+GC count: 76052
+Percentage: 46.3941%
+
+Sequence 403 (KV575247.1):
+GC count: 78751
+Percentage: 46.2686%
+
+Sequence 404 (KV575248.1):
+GC count: 77921
+Percentage: 46.3454%
+
+Sequence 405 (KV575249.1):
+GC count: 136884
+Percentage: 46.6509%
+
+Sequence 406 (KV575250.1):
+GC count: 112070
+Percentage: 46.4909%
+
+Sequence 407 (KV575251.1):
+GC count: 73971
+Percentage: 46.4397%
+
+Sequence 408 (KV575252.1):
+GC count: 82065
+Percentage: 46.053%
+
+Sequence 409 (KV575253.1):
+GC count: 77193
+Percentage: 46.3029%
+
+Sequence 410 (KV575254.1):
+GC count: 46096
+Percentage: 46.1676%
+
+Sequence 411 (KV575255.1):
+GC count: 74787
+Percentage: 46.4242%
+
+Sequence 412 (KV575256.1):
+GC count: 104102
+Percentage: 46.6578%
+
+Sequence 413 (KV575257.1):
+GC count: 46048
+Percentage: 45.7948%
+
+Sequence 414 (KV575259.1):
+GC count: 79259
+Percentage: 46.2791%
+
+Sequence 415 (KV575260.1):
+GC count: 67586
+Percentage: 46.3906%
+
+Sequence 416 (KV575258.1):
+GC count: 73755
+Percentage: 46.993%
+
+Sequence 417 (MU273388.1):
+GC count: 109919
+Percentage: 40.1567%
+
+Sequence 418 (MU273389.1):
+GC count: 172469
+Percentage: 48.483%
+
+Sequence 419 (ML143377.1):
+GC count: 230661
+Percentage: 44.4019%
+
+Sequence 420 (MU273390.1):
+GC count: 134044
+Percentage: 39.805%
+
+Sequence 421 (MU273391.1):
+GC count: 422687
+Percentage: 41.4083%
+
+Sequence 422 (MU273392.1):
+GC count: 109051
+Percentage: 57.4839%
+
+Sequence 423 (ML143380.1):
+GC count: 171637
+Percentage: 41.6223%
+
+Sequence 424 (ML143378.1):
+GC count: 173264
+Percentage: 37.5597%
+
+Sequence 425 (KN196485.1):
+GC count: 72865
+Percentage: 46.5407%
+
+Sequence 426 (KQ458387.1):
+GC count: 73205
+Percentage: 46.9473%
+
+Sequence 427 (KQ458388.1):
+GC count: 85984
+Percentage: 49.2043%
+
+Sequence 428 (KN196486.1):
+GC count: 74613
+Percentage: 48.7581%
+
+Sequence 429 (KQ759761.1):
+GC count: 71005
+Percentage: 48.9143%
+
+Sequence 430 (ML143379.1):
+GC count: 6090
+Percentage: 49.5323%
+
+Sequence 431 (KQ759762.2):
+GC count: 53902
+Percentage: 53.3472%
+
+Sequence 432 (KV766199.1):
+GC count: 68738
+Percentage: 36.562%
+
+Sequence 433 (ML143385.1):
+GC count: 4013
+Percentage: 23.0169%
+
+Sequence 434 (MU273397.1):
+GC count: 164590
+Percentage: 49.8014%
+
+Sequence 435 (ML143382.1):
+GC count: 9257
+Percentage: 32.1156%
+
+Sequence 436 (MU273393.1):
+GC count: 27747
+Percentage: 40.3241%
+
+Sequence 437 (ML143383.1):
+GC count: 22618
+Percentage: 33.1681%
+
+Sequence 438 (MU273394.1):
+GC count: 63658
+Percentage: 45.2866%
+
+Sequence 439 (ML143381.1):
+GC count: 163908
+Percentage: 40.659%
+
+Sequence 440 (MU273396.1):
+GC count: 108008
+Percentage: 36.7225%
+
+Sequence 441 (ML143384.1):
+GC count: 3452
+Percentage: 23.5182%
+
+Sequence 442 (MU273395.1):
+GC count: 269753
+Percentage: 43.5285%
+
+Sequence 443 (KZ208923.1):
+GC count: 18882
+Percentage: 39.0366%
+
+Sequence 444 (MU273398.1):
+GC count: 382315
+Percentage: 44.1603%
+
+Sequence 445 (KZ208924.1):
+GC count: 83697
+Percentage: 39.9085%
+
+Sequence 446 (KN196487.1):
+GC count: 39587
+Percentage: 39.1369%
+
+Sequence 447 (KI270762.1):
+GC count: 184302
+Percentage: 60.5372%
+
+Sequence 448 (KI270766.1):
+GC count: 117605
+Percentage: 45.8909%
+
+Sequence 449 (KI270760.1):
+GC count: 52984
+Percentage: 48.3748%
+
+Sequence 450 (KI270765.1):
+GC count: 73513
+Percentage: 39.6756%
+
+Sequence 451 (GL383518.1):
+GC count: 85851
+Percentage: 47.0574%
+
+Sequence 452 (GL383519.1):
+GC count: 56783
+Percentage: 51.4954%
+
+Sequence 453 (GL383520.2):
+GC count: 131258
+Percentage: 35.8061%
+
+Sequence 454 (KI270764.1):
+GC count: 21955
+Percentage: 43.6846%
+
+Sequence 455 (KI270763.1):
+GC count: 352804
+Percentage: 38.6992%
+
+Sequence 456 (KI270759.1):
+GC count: 191225
+Percentage: 44.9306%
+
+Sequence 457 (KI270761.1):
+GC count: 63001
+Percentage: 37.9904%
+
+Sequence 458 (KI270770.1):
+GC count: 61812
+Percentage: 45.3699%
+
+Sequence 459 (KI270773.1):
+GC count: 31752
+Percentage: 44.7924%
+
+Sequence 460 (KI270774.1):
+GC count: 104553
+Percentage: 46.7537%
+
+Sequence 461 (KI270769.1):
+GC count: 57729
+Percentage: 47.8618%
+
+Sequence 462 (GL383521.1):
+GC count: 55796
+Percentage: 38.9121%
+
+Sequence 463 (KI270772.1):
+GC count: 55225
+Percentage: 41.5098%
+
+Sequence 464 (KI270775.1):
+GC count: 51430
+Percentage: 37.263%
+
+Sequence 465 (KI270771.1):
+GC count: 40352
+Percentage: 36.5524%
+
+Sequence 466 (KI270768.1):
+GC count: 45412
+Percentage: 41.2465%
+
+Sequence 467 (GL582966.2):
+GC count: 41407
+Percentage: 43.0735%
+
+Sequence 468 (GL383522.1):
+GC count: 48716
+Percentage: 39.3439%
+
+Sequence 469 (KI270776.1):
+GC count: 95290
+Percentage: 54.7122%
+
+Sequence 470 (KI270767.1):
+GC count: 77443
+Percentage: 47.9292%
+
+Sequence 471 (JH636055.2):
+GC count: 75394
+Percentage: 43.5423%
+
+Sequence 472 (KI270783.1):
+GC count: 42029
+Percentage: 38.4927%
+
+Sequence 473 (KI270780.1):
+GC count: 101809
+Percentage: 45.4285%
+
+Sequence 474 (GL383526.1):
+GC count: 67478
+Percentage: 37.3485%
+
+Sequence 475 (KI270777.1):
+GC count: 67019
+Percentage: 38.5945%
+
+Sequence 476 (KI270778.1):
+GC count: 86462
+Percentage: 34.8283%
+
+Sequence 477 (KI270781.1):
+GC count: 51005
+Percentage: 45.1236%
+
+Sequence 478 (KI270779.1):
+GC count: 105327
+Percentage: 51.3009%
+
+Sequence 479 (KI270782.1):
+GC count: 79717
+Percentage: 49.0781%
+
+Sequence 480 (KI270784.1):
+GC count: 79918
+Percentage: 43.3385%
+
+Sequence 481 (KI270790.1):
+GC count: 81325
+Percentage: 36.9246%
+
+Sequence 482 (GL383528.1):
+GC count: 128852
+Percentage: 34.2521%
+
+Sequence 483 (KI270787.1):
+GC count: 43266
+Percentage: 38.65%
+
+Sequence 484 (GL000257.2):
+GC count: 213316
+Percentage: 36.3725%
+
+Sequence 485 (KI270788.1):
+GC count: 57308
+Percentage: 36.0507%
+
+Sequence 486 (GL383527.1):
+GC count: 61155
+Percentage: 37.1682%
+
+Sequence 487 (KI270785.1):
+GC count: 48045
+Percentage: 40.0669%
+
+Sequence 488 (KI270789.1):
+GC count: 82839
+Percentage: 40.224%
+
+Sequence 489 (KI270786.1):
+GC count: 102328
+Percentage: 41.9212%
+
+Sequence 490 (KI270793.1):
+GC count: 69379
+Percentage: 55.0033%
+
+Sequence 491 (KI270792.1):
+GC count: 104696
+Percentage: 58.4753%
+
+Sequence 492 (KI270791.1):
+GC count: 106909
+Percentage: 54.6262%
+
+Sequence 493 (GL383532.1):
+GC count: 28430
+Percentage: 34.3656%
+
+Sequence 494 (GL949742.1):
+GC count: 78988
+Percentage: 34.8192%
+
+Sequence 495 (KI270794.1):
+GC count: 67219
+Percentage: 40.8482%
+
+Sequence 496 (GL339449.2):
+GC count: 599472
+Percentage: 39.6233%
+
+Sequence 497 (GL383530.1):
+GC count: 37726
+Percentage: 37.2636%
+
+Sequence 498 (KI270796.1):
+GC count: 64837
+Percentage: 37.5414%
+
+Sequence 499 (GL383531.1):
+GC count: 63503
+Percentage: 36.6098%
+
+Sequence 500 (KI270795.1):
+GC count: 61015
+Percentage: 46.2613%
+
+Sequence 501 (GL000250.2):
+GC count: 1041765
+Percentage: 43.9409%
+
+Sequence 502 (KI270800.1):
+GC count: 60337
+Percentage: 34.3198%
+
+Sequence 503 (KI270799.1):
+GC count: 53716
+Percentage: 35.3051%
+
+Sequence 504 (GL383533.1):
+GC count: 48057
+Percentage: 38.527%
+
+Sequence 505 (KI270801.1):
+GC count: 309975
+Percentage: 35.6097%
+
+Sequence 506 (KI270802.1):
+GC count: 34246
+Percentage: 45.6583%
+
+Sequence 507 (KB021644.2):
+GC count: 89773
+Percentage: 48.311%
+
+Sequence 508 (KI270797.1):
+GC count: 92717
+Percentage: 46.9368%
+
+Sequence 509 (KI270798.1):
+GC count: 128033
+Percentage: 47.1087%
+
+Sequence 510 (KI270804.1):
+GC count: 83864
+Percentage: 53.0946%
+
+Sequence 511 (KI270809.1):
+GC count: 87510
+Percentage: 41.7537%
+
+Sequence 512 (KI270806.1):
+GC count: 61812
+Percentage: 39.0805%
+
+Sequence 513 (GL383534.2):
+GC count: 49241
+Percentage: 41.3155%
+
+Sequence 514 (KI270803.1):
+GC count: 468906
+Percentage: 42.1841%
+
+Sequence 515 (KI270808.1):
+GC count: 118107
+Percentage: 43.5089%
+
+Sequence 516 (KI270807.1):
+GC count: 68589
+Percentage: 54.2489%
+
+Sequence 517 (KI270805.1):
+GC count: 109105
+Percentage: 51.9577%
+
+Sequence 518 (KI270818.1):
+GC count: 68997
+Percentage: 47.3861%
+
+Sequence 519 (KI270812.1):
+GC count: 137472
+Percentage: 48.622%
+
+Sequence 520 (KI270811.1):
+GC count: 143829
+Percentage: 49.1831%
+
+Sequence 521 (KI270821.1):
+GC count: 434952
+Percentage: 44.1349%
+
+Sequence 522 (KI270813.1):
+GC count: 132211
+Percentage: 44.0366%
+
+Sequence 523 (KI270822.1):
+GC count: 225054
+Percentage: 36.0379%
+
+Sequence 524 (KI270814.1):
+GC count: 61584
+Percentage: 43.4265%
+
+Sequence 525 (KI270810.1):
+GC count: 143019
+Percentage: 38.198%
+
+Sequence 526 (KI270819.1):
+GC count: 79084
+Percentage: 59.2234%
+
+Sequence 527 (KI270820.1):
+GC count: 20317
+Percentage: 55.4503%
+
+Sequence 528 (KI270817.1):
+GC count: 82883
+Percentage: 52.1332%
+
+Sequence 529 (KI270816.1):
+GC count: 174486
+Percentage: 57.0512%
+
+Sequence 530 (KI270815.1):
+GC count: 65137
+Percentage: 49.2552%
+
+Sequence 531 (GL383539.1):
+GC count: 64620
+Percentage: 39.6471%
+
+Sequence 532 (GL383540.1):
+GC count: 32675
+Percentage: 45.6667%
+
+Sequence 533 (GL383541.1):
+GC count: 70120
+Percentage: 40.9374%
+
+Sequence 534 (GL383542.1):
+GC count: 25638
+Percentage: 42.7072%
+
+Sequence 535 (KI270823.1):
+GC count: 168259
+Percentage: 38.3206%
+
+Sequence 536 (GL383545.1):
+GC count: 71157
+Percentage: 39.6962%
+
+Sequence 537 (KI270824.1):
+GC count: 72398
+Percentage: 39.8896%
+
+Sequence 538 (GL383546.1):
+GC count: 132160
+Percentage: 42.6595%
+
+Sequence 539 (KI270825.1):
+GC count: 94085
+Percentage: 49.9615%
+
+Sequence 540 (KI270832.1):
+GC count: 121363
+Percentage: 57.7553%
+
+Sequence 541 (KI270830.1):
+GC count: 95434
+Percentage: 53.8895%
+
+Sequence 542 (KI270831.1):
+GC count: 160292
+Percentage: 53.9951%
+
+Sequence 543 (KI270829.1):
+GC count: 79438
+Percentage: 38.9289%
+
+Sequence 544 (GL383547.1):
+GC count: 52713
+Percentage: 34.139%
+
+Sequence 545 (JH159136.1):
+GC count: 70849
+Percentage: 35.2486%
+
+Sequence 546 (JH159137.1):
+GC count: 71326
+Percentage: 37.2637%
+
+Sequence 547 (KI270827.1):
+GC count: 33871
+Percentage: 50.0258%
+
+Sequence 548 (KI270826.1):
+GC count: 83050
+Percentage: 44.61%
+
+Sequence 549 (GL877875.1):
+GC count: 84852
+Percentage: 50.7145%
+
+Sequence 550 (GL877876.1):
+GC count: 148257
+Percentage: 36.3134%
+
+Sequence 551 (KI270837.1):
+GC count: 16100
+Percentage: 40.1596%
+
+Sequence 552 (GL383549.1):
+GC count: 46651
+Percentage: 38.6171%
+
+Sequence 553 (KI270835.1):
+GC count: 99151
+Percentage: 41.6358%
+
+Sequence 554 (GL383550.2):
+GC count: 66925
+Percentage: 39.5589%
+
+Sequence 555 (GL383552.1):
+GC count: 50634
+Percentage: 36.518%
+
+Sequence 556 (GL383553.2):
+GC count: 60195
+Percentage: 39.3756%
+
+Sequence 557 (KI270834.1):
+GC count: 56878
+Percentage: 47.5975%
+
+Sequence 558 (GL383551.1):
+GC count: 74691
+Percentage: 40.5227%
+
+Sequence 559 (KI270833.1):
+GC count: 32914
+Percentage: 43.2732%
+
+Sequence 560 (KI270836.1):
+GC count: 29186
+Percentage: 51.9934%
+
+Sequence 561 (KI270840.1):
+GC count: 80566
+Percentage: 42.0306%
+
+Sequence 562 (KI270839.1):
+GC count: 73247
+Percentage: 40.6237%
+
+Sequence 563 (KI270843.1):
+GC count: 35689
+Percentage: 34.3719%
+
+Sequence 564 (KI270841.1):
+GC count: 58783
+Percentage: 34.7553%
+
+Sequence 565 (KI270838.1):
+GC count: 142367
+Percentage: 46.3868%
+
+Sequence 566 (KI270842.1):
+GC count: 20802
+Percentage: 55.7889%
+
+Sequence 567 (KI270844.1):
+GC count: 125960
+Percentage: 39.0979%
+
+Sequence 568 (KI270847.1):
+GC count: 684444
+Percentage: 45.2941%
+
+Sequence 569 (KI270845.1):
+GC count: 94254
+Percentage: 52.1596%
+
+Sequence 570 (KI270846.1):
+GC count: 615911
+Percentage: 45.576%
+
+Sequence 571 (KI270852.1):
+GC count: 185820
+Percentage: 38.7934%
+
+Sequence 572 (KI270851.1):
+GC count: 116690
+Percentage: 44.3597%
+
+Sequence 573 (KI270848.1):
+GC count: 147915
+Percentage: 45.1812%
+
+Sequence 574 (GL383554.1):
+GC count: 128469
+Percentage: 43.3246%
+
+Sequence 575 (KI270849.1):
+GC count: 103101
+Percentage: 42.0963%
+
+Sequence 576 (GL383555.2):
+GC count: 190115
+Percentage: 48.9013%
+
+Sequence 577 (KI270850.1):
+GC count: 197176
+Percentage: 45.7612%
+
+Sequence 578 (KI270854.1):
+GC count: 73127
+Percentage: 54.4939%
+
+Sequence 579 (KI270856.1):
+GC count: 34708
+Percentage: 54.2465%
+
+Sequence 580 (KI270855.1):
+GC count: 125529
+Percentage: 53.9082%
+
+Sequence 581 (KI270853.1):
+GC count: 1222068
+Percentage: 45.9476%
+
+Sequence 582 (GL383556.1):
+GC count: 85484
+Percentage: 44.416%
+
+Sequence 583 (GL383557.1):
+GC count: 39313
+Percentage: 43.8409%
+
+Sequence 584 (GL383563.3):
+GC count: 195379
+Percentage: 52.0052%
+
+Sequence 585 (KI270862.1):
+GC count: 203385
+Percentage: 51.9692%
+
+Sequence 586 (KI270861.1):
+GC count: 106639
+Percentage: 54.2173%
+
+Sequence 587 (KI270857.1):
+GC count: 1330537
+Percentage: 46.2462%
+
+Sequence 588 (JH159146.1):
+GC count: 112053
+Percentage: 40.2878%
+
+Sequence 589 (JH159147.1):
+GC count: 28680
+Percentage: 40.7705%
+
+Sequence 590 (GL383564.2):
+GC count: 60628
+Percentage: 45.5333%
+
+Sequence 591 (GL000258.2):
+GC count: 801548
+Percentage: 45.2343%
+
+Sequence 592 (GL383565.1):
+GC count: 83161
+Percentage: 37.1263%
+
+Sequence 593 (KI270858.1):
+GC count: 88045
+Percentage: 37.3346%
+
+Sequence 594 (KI270859.1):
+GC count: 48759
+Percentage: 44.8305%
+
+Sequence 595 (GL383566.1):
+GC count: 47025
+Percentage: 52.1232%
+
+Sequence 596 (KI270860.1):
+GC count: 96755
+Percentage: 54.0769%
+
+Sequence 597 (KI270864.1):
+GC count: 38503
+Percentage: 34.4586%
+
+Sequence 598 (GL383567.1):
+GC count: 120874
+Percentage: 41.705%
+
+Sequence 599 (GL383570.1):
+GC count: 64435
+Percentage: 39.1015%
+
+Sequence 600 (GL383571.1):
+GC count: 53752
+Percentage: 36.2508%
+
+Sequence 601 (GL383568.1):
+GC count: 39490
+Percentage: 37.7707%
+
+Sequence 602 (GL383569.1):
+GC count: 80320
+Percentage: 47.8238%
+
+Sequence 603 (GL383572.1):
+GC count: 75303
+Percentage: 47.198%
+
+Sequence 604 (KI270863.1):
+GC count: 85722
+Percentage: 51.0253%
+
+Sequence 605 (KI270868.1):
+GC count: 37068
+Percentage: 60.0447%
+
+Sequence 606 (KI270865.1):
+GC count: 33264
+Percentage: 62.799%
+
+Sequence 607 (GL383573.1):
+GC count: 156168
+Percentage: 40.494%
+
+Sequence 608 (GL383575.2):
+GC count: 68606
+Percentage: 40.3038%
+
+Sequence 609 (GL383576.1):
+GC count: 74261
+Percentage: 39.4955%
+
+Sequence 610 (GL383574.1):
+GC count: 68314
+Percentage: 43.8292%
+
+Sequence 611 (KI270866.1):
+GC count: 22355
+Percentage: 51.8004%
+
+Sequence 612 (KI270867.1):
+GC count: 102913
+Percentage: 44.0247%
+
+Sequence 613 (GL949746.1):
+GC count: 435477
+Percentage: 49.3338%
+
+Sequence 614 (GL383577.2):
+GC count: 61470
+Percentage: 47.8791%
+
+Sequence 615 (KI270869.1):
+GC count: 64463
+Percentage: 54.2737%
+
+Sequence 616 (KI270871.1):
+GC count: 36108
+Percentage: 61.5537%
+
+Sequence 617 (KI270870.1):
+GC count: 97800
+Percentage: 53.3165%
+
+Sequence 618 (GL383578.2):
+GC count: 23114
+Percentage: 36.1625%
+
+Sequence 619 (KI270874.1):
+GC count: 63217
+Percentage: 37.9128%
+
+Sequence 620 (KI270873.1):
+GC count: 59163
+Percentage: 41.114%
+
+Sequence 621 (GL383579.2):
+GC count: 70173
+Percentage: 34.8778%
+
+Sequence 622 (GL383580.2):
+GC count: 31094
+Percentage: 41.6514%
+
+Sequence 623 (GL383581.2):
+GC count: 51956
+Percentage: 44.5252%
+
+Sequence 624 (KI270872.1):
+GC count: 44815
+Percentage: 54.1951%
+
+Sequence 625 (KI270875.1):
+GC count: 115207
+Percentage: 44.325%
+
+Sequence 626 (KI270878.1):
+GC count: 93081
+Percentage: 49.9732%
+
+Sequence 627 (KI270879.1):
+GC count: 155962
+Percentage: 51.2805%
+
+Sequence 628 (KI270876.1):
+GC count: 107072
+Percentage: 40.609%
+
+Sequence 629 (KI270877.1):
+GC count: 50743
+Percentage: 50.0765%
+
+Sequence 630 (GL383583.2):
+GC count: 44688
+Percentage: 46.1062%
+
+Sequence 631 (GL383582.2):
+GC count: 76287
+Percentage: 46.8562%
+
+Sequence 632 (KI270880.1):
+GC count: 144324
+Percentage: 50.6633%
+
+Sequence 633 (KI270881.1):
+GC count: 54105
+Percentage: 37.5192%
+
+Sequence 634 (KI270892.1):
+GC count: 61455
+Percentage: 37.8856%
+
+Sequence 635 (KI270894.1):
+GC count: 90447
+Percentage: 42.2338%
+
+Sequence 636 (KI270893.1):
+GC count: 77188
+Percentage: 47.878%
+
+Sequence 637 (KI270895.1):
+GC count: 82376
+Percentage: 50.5697%
+
+Sequence 638 (KI270896.1):
+GC count: 158187
+Percentage: 41.7879%
+
+Sequence 639 (KI270897.1):
+GC count: 430019
+Percentage: 39.292%
+
+Sequence 640 (KI270898.1):
+GC count: 61136
+Percentage: 46.684%
+
+Sequence 641 (GL000251.2):
+GC count: 2142508
+Percentage: 44.6797%
+
+Sequence 642 (KI270899.1):
+GC count: 97598
+Percentage: 51.1335%
+
+Sequence 643 (KI270901.1):
+GC count: 63255
+Percentage: 46.1854%
+
+Sequence 644 (KI270900.1):
+GC count: 153396
+Percentage: 48.1337%
+
+Sequence 645 (KI270902.1):
+GC count: 59627
+Percentage: 55.8771%
+
+Sequence 646 (KI270903.1):
+GC count: 112252
+Percentage: 52.3015%
+
+Sequence 647 (KI270904.1):
+GC count: 212573
+Percentage: 37.1404%
+
+Sequence 648 (KI270906.1):
+GC count: 86970
+Percentage: 44.2857%
+
+Sequence 649 (KI270905.1):
+GC count: 2053284
+Percentage: 43.1597%
+
+Sequence 650 (KI270907.1):
+GC count: 72886
+Percentage: 52.9229%
+
+Sequence 651 (KI270910.1):
+GC count: 85969
+Percentage: 54.7228%
+
+Sequence 652 (KI270909.1):
+GC count: 149888
+Percentage: 46.0061%
+
+Sequence 653 (JH159148.1):
+GC count: 35703
+Percentage: 40.5393%
+
+Sequence 654 (KI270908.1):
+GC count: 659288
+Percentage: 46.3247%
+
+Sequence 655 (KI270912.1):
+GC count: 85405
+Percentage: 49.0661%
+
+Sequence 656 (KI270911.1):
+GC count: 74428
+Percentage: 47.1929%
+
+Sequence 657 (GL949747.2):
+GC count: 328220
+Percentage: 49.4665%
+
+Sequence 658 (KB663609.1):
+GC count: 37414
+Percentage: 50.5506%
+
+Sequence 659 (KI270913.1):
+GC count: 138328
+Percentage: 50.483%
+
+Sequence 660 (KI270924.1):
+GC count: 84668
+Percentage: 50.8394%
+
+Sequence 661 (KI270925.1):
+GC count: 232698
+Percentage: 41.8673%
+
+Sequence 662 (GL000252.2):
+GC count: 1886297
+Percentage: 44.9256%
+
+Sequence 663 (KI270926.1):
+GC count: 106715
+Percentage: 46.5431%
+
+Sequence 664 (KI270927.1):
+GC count: 122574
+Percentage: 56.0692%
+
+Sequence 665 (GL949748.2):
+GC count: 230760
+Percentage: 50.461%
+
+Sequence 666 (KI270928.1):
+GC count: 83681
+Percentage: 47.5182%
+
+Sequence 667 (KI270934.1):
+GC count: 82702
+Percentage: 50.5953%
+
+Sequence 668 (GL000253.2):
+GC count: 1807946
+Percentage: 44.1488%
+
+Sequence 669 (GL949749.2):
+GC count: 220201
+Percentage: 50.5232%
+
+Sequence 670 (KI270935.1):
+GC count: 100848
+Percentage: 51.1008%
+
+Sequence 671 (GL000254.2):
+GC count: 1717197
+Percentage: 45.3167%
+
+Sequence 672 (GL949750.2):
+GC count: 211631
+Percentage: 50.5822%
+
+Sequence 673 (KI270936.1):
+GC count: 83118
+Percentage: 50.6292%
+
+Sequence 674 (GL000255.2):
+GC count: 1934421
+Percentage: 45.0942%
+
+Sequence 675 (GL949751.2):
+GC count: 234854
+Percentage: 50.3241%
+
+Sequence 676 (KI270937.1):
+GC count: 83828
+Percentage: 50.6186%
+
+Sequence 677 (GL000256.2):
+GC count: 1845172
+Percentage: 44.2036%
+
+Sequence 678 (GL949752.1):
+GC count: 481263
+Percentage: 49.0035%
+
+Sequence 679 (KI270758.1):
+GC count: 31493
+Percentage: 41.0322%
+
+Sequence 680 (GL949753.2):
+GC count: 335046
+Percentage: 49.5279%
+
+Sequence 681 (KI270938.1):
+GC count: 522557
+Percentage: 48.9836%
+
+Sequence 682 (KI270882.1):
+GC count: 115873
+Percentage: 46.5714%
+
+Sequence 683 (KI270883.1):
+GC count: 78843
+Percentage: 46.2696%
+
+Sequence 684 (KI270884.1):
+GC count: 72508
+Percentage: 46.1679%
+
+Sequence 685 (KI270885.1):
+GC count: 79128
+Percentage: 46.2664%
+
+Sequence 686 (KI270886.1):
+GC count: 95301
+Percentage: 46.6615%
+
+Sequence 687 (KI270887.1):
+GC count: 97025
+Percentage: 46.31%
+
+Sequence 688 (KI270888.1):
+GC count: 71651
+Percentage: 46.0683%
+
+Sequence 689 (KI270889.1):
+GC count: 78943
+Percentage: 46.2472%
+
+Sequence 690 (KI270890.1):
+GC count: 85559
+Percentage: 46.3737%
+
+Sequence 691 (KI270891.1):
+GC count: 78952
+Percentage: 46.2573%
+
+Sequence 692 (KI270914.1):
+GC count: 95812
+Percentage: 46.6934%
+
+Sequence 693 (KI270915.1):
+GC count: 78926
+Percentage: 46.2462%
+
+Sequence 694 (KI270916.1):
+GC count: 85570
+Percentage: 46.3754%
+
+Sequence 695 (KI270917.1):
+GC count: 88989
+Percentage: 46.6077%
+
+Sequence 696 (KI270918.1):
+GC count: 56682
+Percentage: 46.0414%
+
+Sequence 697 (KI270919.1):
+GC count: 78949
+Percentage: 46.2499%
+
+Sequence 698 (KI270920.1):
+GC count: 91503
+Percentage: 46.2125%
+
+Sequence 699 (KI270921.1):
+GC count: 131681
+Percentage: 46.6583%
+
+Sequence 700 (KI270922.1):
+GC count: 87938
+Percentage: 46.7917%
+
+Sequence 701 (KI270923.1):
+GC count: 87234
+Percentage: 46.0698%
+
+Sequence 702 (KI270929.1):
+GC count: 87012
+Percentage: 46.7296%
+
+Sequence 703 (KI270930.1):
+GC count: 93526
+Percentage: 46.583%
+
+Sequence 704 (KI270931.1):
+GC count: 78619
+Percentage: 46.2062%
+
+Sequence 705 (KI270932.1):
+GC count: 100491
+Percentage: 46.5814%
+
+Sequence 706 (KI270933.1):
+GC count: 78878
+Percentage: 46.2527%
+
+Sequence 707 (GL000209.2):
+GC count: 82500
+Percentage: 46.5101%
+
+Sequence 708 (J01415.2):
+GC count: 7350
+Percentage: 44.3626%
+
